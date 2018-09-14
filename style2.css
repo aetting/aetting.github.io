@@ -1,0 +1,110 @@
+body {
+font-family: "Georgia", serif;
+color: #484848
+}
+
+h1 {
+margin-left: 40px
+}
+
+h2,h3,p,a.al,h4,hr{
+width:950px;
+margin-left: 40px;
+margin-right: auto;
+}
+ul{
+width:900px;
+margin-left: 40px;
+margin-right: auto;
+}
+
+.centertext {
+text-align: center
+}
+
+
+div.about {
+width:950px;
+margin-left: 40px;
+margin-right: auto;
+}
+
+#centerpic {
+float:right;
+padding-left: 30px;
+padding-bottom: 20px;
+padding-top: 20px
+}
+
+.inside{
+margin-left: 0px;
+}
+
+.bio{
+float:left;
+width: 500px;
+margin-left: 0px;
+}
+
+
+.news{
+float:right;
+width: 400px
+}
+
+
+p.small {
+line-height: 50%;
+font-size: 80%;
+text-align: right;
+margin-left: 100px;
+margin-right: 110px;
+}
+
+p.indent {
+margin-left: 100px;
+margin-right: 120px
+}
+
+ul #navbar {
+text-align: center;
+}
+
+li {
+list-style:decimal;
+}
+
+.disc {
+  list-style:disc
+}
+
+.l2c
+{
+    padding-left:30px;
+    background-image: url('http://www.sizzledcore.com/wp-content/themes/SizzledCore-7.0/images/facebook.png');
+    background-repeat: no-repeat;
+    background-position: 0 0 0 0;
+}
+
+#navbar a {border-bottom-width: 0;}
+#navbar {height: 1.8em;
+  margin-left: 0px;
+  width:100%;
+  padding: 10px 0 0 0px;
+  background: #FBFAF4;
+  border-top: 5px solid #488AC7;
+  border-bottom: 1px solid #488AC7;
+  font: 18px "Helvetica Neue",Helvetica,Arial,sans-serif; overflow: hidden;text-align: left; text-transform: uppercase; color: #000;text-decoration: none;}
+
+
+#navbar li {display:inline; list-style:none; float: none; padding: 0px 25px 0px 25px;}
+#navbar #home {padding-left: 40px;}
+#navbar #contact {padding-right: 0;}
+
+#navbar li a {
+  text-transform: uppercase; color: #000;text-decoration: none;}
+
+a {
+  text-decoration: none;
+  color: #4863A0;
+}

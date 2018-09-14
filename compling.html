@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Allyson Ettinger</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style2.css">
+<!--
+<style>
+.disc {
+  list-style:disc
+}
+</style>
+-->
+</head>
+<h1>Allyson Ettinger</h1>
+
+    <ul id="navbar">
+          <li id="home"><a href="index.html" title="Home">Home</a></li>
+          <li id="research"><a href="research.html" title="Research">Research</a></li>
+          <li id="teaching"><a href="teaching.html" title="Teaching">Teaching</a></li>
+          <li id="cv"><a href="CV.pdf" title="CV">CV</a></li>
+          <li id="contact"><a href="contact.html" title="Contact">Contact</a></li>
+    </ul>
+
+
+</style>
+</head>
+
+<p><b>Section links</b>:<br><br>
+    <a style="padding-left:20px" href="#curr">Current projects</a><br>
+    <a style="padding-left:20px" href="#pubs">Relevant publications (with PDFs)</a><br>
+    <a style="padding-left:20px" href="#comp">Descriptions of computational work</a>
+  </p>
+
+<h3>Bridging linguistics and computation</h3>
+<p>My work bridges linguistics and language technology in both directions:</p>
+
+<ul>
+  <li class="disc"> <b>Technology &rarr; Linguistics.</b> I draw on advanced computational methods and technologies to aid in the study of language - particularly language processing - in humans.</li>
+  <li class="disc"> <b>Linguistics &rarr; Technology.</b> I apply theoretical and analytical insights from linguistics and cognitive science to improve the engineering of natural language processing (NLP) technology. </li>
+</ul>
+
+<hr>
+<a style="color:#484848" name="curr">
+  <h3>Current projects</h3>
+</a>
+<p>My two threads of current research include not-yet-published work to be included in my dissertation. (Numbering is for reference in computational project descriptions below.)</p>
+
+<p> <b>(1) Computational psycholinguistic modeling drawing on current engineering tools</b><br>
+I am currently integrating psycholinguistic hypotheses with computational methods like machine learning and vector space models (cutting-edge methods popular in current NLP systems) to create rich computational frameworks for modeling human language processing.
+My interest is in processing at syntactic and semantic levels, and my current focus is on understanding the processing of semantic role reversals, and what this phenomenon tells us about the mechanisms underlying human language comprehension.</p>
+<p> <b>(2) Probing for compositional information in sentence representations from neural networks</b><br>
+I am also applying a method (introduced in (4) below) that uses carefully controlled syntactic and semantic variation, together with analysis methodology from cognitive neuroscience, to analyze opaque (vector) sentence representations produced by neural network systems in NLP.
+Specifically, I am designing tests to probe these sentence representations for compositional meaning information, in order to guide toward language technologies that produce accurate, compositional sentence representations.</p>
+
+<hr>
+
+<a style="color:#484848" name="pubs">
+  <h3>Relevant publications</h3>
+</a>
+
+<p>Below are publications reflecting work that I have completed in computational psycholinguistic modeling, in NLP/engineering, or that otherwise involved using computational methods for linguistic research.
+(For additional publications, see <a href="http://ling.umd.edu/~aetting/research.html">here</a>.)</p>
+
+<p><b>(3) Using word vectors to account for associative effects in sentence processing</b><br>
+<a href="N400.pdf">"Modeling N400 amplitude using vector space models of word representation".</a>
+Ettinger, A., Feldman, N.H., Resnik, P., & Phillips, C. (2016).
+<i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. <a href="N400.pdf">[PDF]</a></p>
+
+<p><b>(4) Testing for compositional information in sentence vector representations</b> <br>
+<a href="composition.pdf">"Probing for semantic evidence of composition by means of simple classification tasks".</a>
+Ettinger, A., Elgohary, A., & Resnik, P. (2016)
+<i>Proceedings of the First Workshop on Evaluating Vector Space Representations for NLP, ACL 2016</i>. <b>Recipient of Best Proposal Award. </b> <a href="composition.pdf">[PDF]</a></p>
+
+<p><b>(5) Leveraging translation information to learn sense-specific representations of polysemous words</b> <br>
+<a href="polysemy.pdf">"Retrofitting sense-specific word vectors using parallel text".</a>
+Ettinger, A., Resnik, P., & Carpuat, M. (2016)
+<i>Proceedings of NAACL-HLT</i>. <a href="polysemy.pdf">[PDF]</a></p>
+
+<p><b>(6) Testing capacity of word vectors to simulate human semantic priming </b> <br>
+<a href="priming.pdf">"Evaluating vector space models using human semantic priming results"</a>
+Ettinger, A. & Linzen, T.  (2016)
+<i>Proceedings of the First Workshop on Evaluating Vector Space Representations for NLP, ACL 2016</i>. <a href="priming.pdf">[PDF]</a></p>
+
+<p><b>(7) Using information theory to analyze morphological processing and prediction</b> <br>
+<a href="morphpred.pdf">"The role of morphology in phoneme prediction: Evidence from MEG".</a>
+Ettinger, A., Linzen, T., Marantz, A. (2014).
+<i>Brain and Language 129</i>, 14-23. <a href="morphpred.pdf">[PDF]</a></p>
+
+<p><b>(8) Using discourse insights to improve automatic zero pronoun resolution </b> <br>
+<a href="focustrack.pdf">"Dialogue focus tracking for zero pronoun resolution".</a>
+Rao, S., Ettinger, A., Daum&eacute; III, H., Resnik, P. (2015).
+<i>Proceedings of NAACL HLT 2015</i>. <a href="focustrack.pdf">[PDF]</a></p>
+<hr>
+
+<a style="color:#484848" name="comp">
+  <h3>Descriptions of computational work</h3>
+</a>
+<p>
+Nearly all of my work employs computational methods, with the particular methods covering a broad range.<br><br>
+<b>Neural networks</b>: My current work in (1) involves low-level designing, building, and analysis of neural network models to test psycholinguistic hypotheses.<br><br>
+<b>General machine learning</b>: In addition to design and development of neural networks in project (1), a majority of my work leverages machine learning in some way.</p>
+<ul>
+    <li class="disc"> For the analysis method in (2) and (4), I use machine learning to test what semantic information can be extracted from sentence vector representations.</li>
+    <li class="disc"> In (3) and (6) I used off-the-shelf machine learning tools to learn word representations from large corpora for modeling of word- and sentence-level processes in human comprehension.</li>
+    <li class="disc"> In (5) I used another existing machine learning model (making slight modifications) to learn sense-specific representations for polysemous words based on a knowledge graph.</li>
+    <li class="disc"> In (8) we used insights from pragmatics to help a machine learning model resolve null pronouns in Mandarin.
+</ul>
+<p>
+<b>Working with corpus data</b>: Many of my projects involve working with corpora.</p>
+<ul>
+    <li class="disc"> Project (5) involved learning word alignments from a corpus of parallel data (translated sentences) in order to create a graph structure for learning word senses.
+    <li class="disc"> As mentioned above, (3) and (6) involved learning word representations based on large text corpora, for psycholinguistic modeling.
+    <li class="disc"> Current projects (1) and (2) involve <i>producing</i> controlled corpora for use in learning and analysis.
+    <li class="disc"> I also used computational corpus analysis for my theoretical work on the Mandarin utterance-final particle <i>ba</i>. (More on that project <a href="http://ling.umd.edu/~aetting/ba.pdf">here</a>.)
+</ul>
+<p>
+<b>Development of sentence generation system</b>: One of the more challenging computational projects that I have undertaken was designing and building a sentence generation system to flexibly produce controlled sentence sets for the analysis in (2).
+This system allows for specification of semantic, syntactic, and lexical constraints, and it produces diverse sentences based on those constraints.<br><br>
+<b>Brain data analysis and information theory</b>: My earlier experience with computational methods came from my work on (7), analyzing complex datasets of recorded brain activity. This work also involved analysis using information-theoretic measures of surprisal and entropy.
+</p>
+<br><br>
+
+</html>
