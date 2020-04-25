@@ -1,0 +1,14 @@
+professor
+student
+woman
+man
+doctor
+scientist
+lawyer
+dance
+sleep
+call
+help
+follow
+recommend
+meet

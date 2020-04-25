@@ -1,0 +1,1000 @@
+TRUE	neg_test5358	the men that the scientists were entirely meeting are not often , really , totally calling the student	meet
+FALSE	neg_test4887	the men that were totally calling the lawyers are not often sleeping	sleep
+FALSE	neg_test5074	the man that the scientist is really following was not totally meeting the students	meet
+TRUE	neg_test3832	the students were recommending the doctor that was not dancing	recommend
+FALSE	neg_test5312	the student that the men are entirely , totally helping is not meeting the doctors	meet
+TRUE	neg_test723	the students that are not recommending the woman were really dancing	dance
+TRUE	neg_test2679	the student was following the professor that the lawyers were not entirely helping	follow
+TRUE	neg_test1015	the scientists that were not dancing were entirely sleeping	sleep
+TRUE	neg_test4728	the lawyer that is totally calling the scientists was not dancing	call
+FALSE	neg_test7649	the doctor is not calling the lawyers that are totally dancing	call
+FALSE	neg_test5704	the lawyers that were totally , entirely , really helping the doctor are not really , often meeting the professors	meet
+FALSE	neg_test5238	the professor that the students were often , really meeting is not totally following the scientist	follow
+TRUE	neg_test2105	the doctor that is not often , really sleeping is totally following the student	follow
+TRUE	neg_test2557	the professor is entirely , often calling the man that the student was not entirely meeting	call
+FALSE	neg_test2428	the lawyer that was not really , totally dancing is totally recommending the professors	dance
+TRUE	neg_test143	the men that the student was not meeting are entirely , really sleeping	sleep
+FALSE	neg_test3472	the doctor is meeting the lawyers that are not calling the scientists	call
+TRUE	neg_test1142	the women that the lawyers were not helping are calling the men	call
+FALSE	neg_test2014	the doctor that is not often meeting the woman was really , often recommending the lawyers	meet
+FALSE	neg_test2694	the student is totally following the women that the man is not often , entirely calling	call
+FALSE	neg_test7933	the lawyer is not entirely calling the scientist that is totally , often , entirely sleeping	call
+FALSE	neg_test4396	the professor that the lawyers were entirely following was not dancing	dance
+TRUE	neg_test7308	the scientist is not helping the women that are recommending the men	recommend
+FALSE	neg_test4673	the professors that are totally , really helping the student are not often , entirely sleeping	sleep
+TRUE	neg_test5503	the man that the doctor was often meeting is not really , entirely calling the student	meet
+FALSE	neg_test5391	the students that the man was really , often helping were not often recommending the doctor	recommend
+TRUE	neg_test7662	the lawyer was not often , really , entirely helping the scientist that was entirely , totally sleeping	sleep
+FALSE	neg_test6832	the students were not meeting the professor that the woman is helping	meet
+FALSE	neg_test3803	the women were entirely following the student that is not totally sleeping	sleep
+TRUE	neg_test3644	the women were really meeting the doctor that is not totally sleeping	meet
+TRUE	neg_test4363	the lawyer that the student was often , entirely , totally following is not totally dancing	follow
+TRUE	neg_test4030	the lawyers that the student is often , really meeting were not totally , often dancing	meet
+FALSE	neg_test1184	the women that the doctors were not really meeting were entirely , often calling the lawyer	meet
+TRUE	neg_test254	the women that the man is not meeting are sleeping	sleep
+TRUE	neg_test1244	the students that the women were not totally , entirely helping are totally meeting the scientist	meet
+TRUE	neg_test7765	the doctors were not totally , entirely recommending the man that was entirely sleeping	sleep
+TRUE	neg_test250	the professor that the students were not often , totally meeting was entirely sleeping	sleep
+FALSE	neg_test741	the woman that was not often helping the professor is often dancing	help
+FALSE	neg_test7437	the women were not totally helping the professor that is entirely following the scientists	help
+TRUE	neg_test365	the scientists that the student is not really recommending are entirely , totally , often sleeping	sleep
+FALSE	neg_test5355	the professors that the student was entirely , totally , often following are not entirely helping the man	help
+FALSE	neg_test3038	the men were really helping the lawyers that are not really recommending the student	recommend
+TRUE	neg_test2014	the doctor that is not often meeting the woman was really , often recommending the lawyers	recommend
+TRUE	neg_test2493	the student that is not sleeping was really helping the lawyer	help
+FALSE	neg_test1377	the doctors that the woman is not entirely helping were following the professors	help
+FALSE	neg_test1462	the scientists that the doctors were not totally following are really calling the student	follow
+TRUE	neg_test2126	the women that were not totally sleeping were totally , entirely recommending the lawyer	recommend
+FALSE	neg_test6172	the student that is sleeping was not entirely helping the lawyers	help
+FALSE	neg_test7477	the man is not often , totally following the lawyer that is totally helping the professors	follow
+FALSE	neg_test4828	the students that were really calling the women were not totally dancing	dance
+FALSE	neg_test6093	the women that were often , entirely , totally dancing were not totally , often recommending the lawyer	recommend
+FALSE	neg_test1011	the lawyers that are not really , totally , entirely dancing were entirely sleeping	dance
+FALSE	neg_test4222	the women that the professors were totally following are not dancing	dance
+TRUE	neg_test6077	the professors that were entirely , really sleeping were not totally , often , really helping the student	sleep
+FALSE	neg_test1412	the lawyers that the doctor is not helping were totally calling the student	help
+FALSE	neg_test4441	the professors that the men are helping were not often dancing	dance
+FALSE	neg_test4674	the women that are recommending the lawyer are not entirely sleeping	sleep
+FALSE	neg_test3900	the professors are totally helping the doctor that was not totally dancing	dance
+TRUE	neg_test3647	the students are really recommending the man that is not entirely sleeping	recommend
+FALSE	neg_test6495	the scientist that was totally , often dancing is not totally meeting the doctor	meet
+TRUE	neg_test4928	the doctors that were helping the students are not entirely dancing	help
+TRUE	neg_test5665	the men that are totally , entirely meeting the scientists are not entirely , totally helping the doctor	meet
+FALSE	neg_test1414	the professor that the man was not totally helping was really , entirely meeting the scientists	help
+FALSE	neg_test4951	the doctor that was often , totally meeting the students is not really , totally sleeping	sleep
+TRUE	neg_test3428	the student was entirely calling the lawyer that is not really , entirely following the doctor	call
+FALSE	neg_test3396	the lawyer is entirely following the women that were not entirely calling the students	call
+FALSE	neg_test4427	the professor that the woman is totally meeting was not totally , really dancing	dance
+FALSE	neg_test3752	the student was really calling the lawyer that was not entirely sleeping	sleep
+TRUE	neg_test3983	the man was calling the scientists that are not entirely sleeping	call
+FALSE	neg_test1547	the scientist that is not meeting the men is often following the doctors	meet
+TRUE	neg_test4673	the professors that are totally , really helping the student are not often , entirely sleeping	help
+FALSE	neg_test5969	the lawyers that were helping the man were not following the doctor	follow
+TRUE	neg_test567	the professor that was not following the woman was often , entirely dancing	dance
+TRUE	neg_test5969	the lawyers that were helping the man were not following the doctor	help
+FALSE	neg_test5643	the student that was helping the scientists is not totally meeting the woman	meet
+FALSE	neg_test1956	the scientists that are not following the professor were totally meeting the women	follow
+FALSE	neg_test2846	the professor is entirely , really , totally helping the students that the lawyer is not really , entirely meeting	meet
+TRUE	neg_test5672	the professor that was meeting the students is not following the doctor	meet
+FALSE	neg_test5621	the professor that is recommending the men is not totally meeting the doctors	meet
+TRUE	neg_test1011	the lawyers that are not really , totally , entirely dancing were entirely sleeping	sleep
+TRUE	neg_test5321	the professor that the men are often calling was not recommending the lawyers	call
+FALSE	neg_test257	the scientists that the man is not really , often , entirely following were sleeping	follow
+FALSE	neg_test7368	the professors were not calling the lawyer that is recommending the doctor	call
+FALSE	neg_test7678	the students were not calling the women that are really , totally dancing	call
+FALSE	neg_test5970	the women that were totally following the professors are not totally meeting the students	meet
+TRUE	neg_test2694	the student is totally following the women that the man is not often , entirely calling	follow
+TRUE	neg_test5971	the professor that is really , often , entirely following the scientists was not helping the students	follow
+TRUE	neg_test4749	the scientists that were recommending the woman are not often sleeping	recommend
+TRUE	neg_test6138	the professors that were dancing were not entirely , often calling the lawyer	dance
+TRUE	neg_test4544	the scientists that were following the women were not sleeping	follow
+FALSE	neg_test7203	the scientists are not totally , often , entirely , really recommending the man that is meeting the lawyers	recommend
+FALSE	neg_test6225	the scientists that were really dancing are not helping the doctor	help
+TRUE	neg_test6238	the students that were sleeping are not entirely recommending the lawyer	sleep
+TRUE	neg_test1969	the men that are not totally following the student were entirely recommending the scientist	recommend
+TRUE	neg_test4511	the woman that the student is totally , entirely recommending was not dancing	recommend
+TRUE	neg_test2953	the professors are following the scientist that the doctor was not recommending	follow
+TRUE	neg_test1496	the doctors that the lawyer was not totally recommending were entirely , often calling the women	call
+TRUE	neg_test4177	the men that the professor is really helping were not dancing	help
+FALSE	neg_test2432	the woman that is not entirely , totally , really dancing was entirely following the lawyers	dance
+FALSE	neg_test7302	the student was not often , entirely following the lawyer that is totally , entirely recommending the professors	follow
+TRUE	neg_test4369	the scientists that the lawyers are entirely recommending are not totally , often sleeping	recommend
+FALSE	neg_test4286	the woman that the men are totally recommending was not often , really sleeping	sleep
+FALSE	neg_test4418	the professor that the women were totally helping was not really dancing	dance
+TRUE	neg_test5187	the student that the doctor was totally following is not often calling the lawyers	follow
+TRUE	neg_test4282	the professors that the student was really , totally meeting were not totally sleeping	meet
+TRUE	neg_test4563	the doctors that were really recommending the lawyers are not entirely , often dancing	recommend
+TRUE	neg_test5990	the students that were totally , really meeting the professor are not entirely , totally following the woman	meet
+FALSE	neg_test7034	the lawyers are not entirely recommending the scientist that the professor was really helping	recommend
+TRUE	neg_test2428	the lawyer that was not really , totally dancing is totally recommending the professors	recommend
+TRUE	neg_test3568	the man was totally , entirely , often meeting the woman that is not dancing	meet
+TRUE	neg_test4716	the professor that was really following the woman was not entirely sleeping	follow
+FALSE	neg_test8035	the man was not entirely helping the doctor that was totally dancing	help
+FALSE	neg_test1999	the woman that was not meeting the men was helping the student	meet
+TRUE	neg_test5001	the doctor that was entirely , often helping the lawyer is not entirely sleeping	help
+TRUE	neg_test917	the doctor that was not totally meeting the woman is sleeping	sleep
+TRUE	neg_test4887	the men that were totally calling the lawyers are not often sleeping	call
+TRUE	neg_test7437	the women were not totally helping the professor that is entirely following the scientists	follow
+FALSE	neg_test2742	the professor is really following the students that the doctors were not totally , entirely recommending	recommend
+TRUE	neg_test6172	the student that is sleeping was not entirely helping the lawyers	sleep
+FALSE	neg_test1972	the man that is not totally , really meeting the professor was really following the woman	meet
+TRUE	neg_test3298	the students are totally , entirely , often calling the doctors that are not often helping the lawyers	call
+TRUE	neg_test5970	the women that were totally following the professors are not totally meeting the students	follow
+FALSE	neg_test7652	the women were not entirely , totally meeting the man that is often sleeping	meet
+TRUE	neg_test3472	the doctor is meeting the lawyers that are not calling the scientists	meet
+FALSE	neg_test1707	the professors that were not totally , entirely recommending the lawyer were totally helping the scientists	recommend
+FALSE	neg_test7872	the men were not recommending the lawyer that is dancing	recommend
+TRUE	neg_test5747	the man that is following the professor was not totally , often recommending the doctors	follow
+TRUE	neg_test807	the men that are not meeting the student were dancing	dance
+TRUE	neg_test5467	the professor that the doctor is totally recommending was not totally , often meeting the lawyers	recommend
+FALSE	neg_test5503	the man that the doctor was often meeting is not really , entirely calling the student	call
+TRUE	neg_test1394	the scientists that the men were not totally helping were entirely , totally recommending the women	recommend
+TRUE	neg_test7265	the professor is not totally , entirely recommending the men that were helping the students	help
+TRUE	neg_test1940	the scientists that are not entirely , totally calling the lawyer were recommending the men	recommend
+TRUE	neg_test4635	the professor that was really , often following the lawyers is not entirely dancing	follow
+FALSE	neg_test6723	the scientists were not often calling the professor that the students were totally , really following	call
+FALSE	neg_test4698	the scientists that were really , often , totally calling the students are not totally sleeping	sleep
+FALSE	neg_test1438	the doctor that the professor was not often , entirely helping is totally , entirely , really recommending the man	help
+TRUE	neg_test6225	the scientists that were really dancing are not helping the doctor	dance
+FALSE	neg_test5602	the professor that was entirely , really following the woman is not often calling the lawyer	call
+FALSE	neg_test7599	the doctor is not totally following the professors that were totally sleeping	follow
+FALSE	neg_test6439	the women that are often dancing were not totally , often meeting the scientist	meet
+FALSE	neg_test7308	the scientist is not helping the women that are recommending the men	help
+TRUE	neg_test294	the doctors that the scientist is not often , really calling were really dancing	dance
+TRUE	neg_test801	the professors that were not recommending the woman were entirely dancing	dance
+TRUE	neg_test988	the men that are not totally , really calling the student are dancing	dance
+TRUE	neg_test5721	the scientists that were entirely , really meeting the student are not often , entirely following the professors	meet
+FALSE	neg_test5270	the doctor that the women are meeting is not often following the students	follow
+FALSE	neg_test470	the student that the man is not calling was sleeping	call
+FALSE	neg_test5146	the woman that the lawyer is helping is not meeting the professor	meet
+FALSE	neg_test1846	the doctors that were not totally , often , entirely , really following the women were often , really calling the scientist	follow
+FALSE	neg_test1297	the men that the lawyers are not entirely following are often recommending the scientist	follow
+TRUE	neg_test6062	the women that were entirely , totally dancing are not totally , often calling the lawyer	dance
+FALSE	neg_test3910	the doctor is often , really , totally meeting the scientist that is not totally , really dancing	dance
+TRUE	neg_test924	the student that was not entirely calling the lawyer was totally , entirely sleeping	sleep
+FALSE	neg_test1394	the scientists that the men were not totally helping were entirely , totally recommending the women	help
+TRUE	neg_test5043	the man that is often sleeping was not dancing	sleep
+FALSE	neg_test924	the student that was not entirely calling the lawyer was totally , entirely sleeping	call
+FALSE	neg_test7095	the professor was not really calling the doctors that are helping the men	call
+FALSE	neg_test1489	the scientist that the man is not really , often following is really , entirely calling the doctors	follow
+TRUE	neg_test2915	the women were totally , really recommending the men that the lawyer is not really calling	recommend
+FALSE	neg_test6421	the lawyers that were really dancing were not calling the professors	call
+TRUE	neg_test2438	the doctor that was not really , often , entirely sleeping was really following the women	follow
+TRUE	neg_test470	the student that the man is not calling was sleeping	sleep
+TRUE	neg_test1300	the students that the professor is not really meeting are entirely , totally following the man	follow
+TRUE	neg_test3874	the man was often , entirely calling the lawyers that are not entirely dancing	call
+FALSE	neg_test3794	the man was totally following the scientists that were not sleeping	sleep
+FALSE	neg_test1864	the scientist that is not really , entirely following the student is entirely , totally meeting the professor	follow
+FALSE	neg_test4995	the woman that is really , totally meeting the lawyer was not entirely dancing	dance
+TRUE	neg_test4042	the women that the lawyers were often , totally meeting were not sleeping	meet
+FALSE	neg_test7538	the students were not following the women that were totally recommending the men	follow
+FALSE	neg_test1670	the professor that was not really helping the scientists is calling the women	help
+TRUE	neg_test8012	the men are not really , entirely , often , totally meeting the student that was entirely , totally dancing	dance
+FALSE	neg_test2183	the scientist that is not entirely , totally , really sleeping was totally calling the students	sleep
+FALSE	neg_test3039	the lawyer was entirely calling the scientists that are not helping the student	help
+FALSE	neg_test1570	the woman that is not calling the men is entirely helping the professors	call
+TRUE	neg_test82	the men that the lawyer is not really , totally following are sleeping	sleep
+TRUE	neg_test3498	the women are totally helping the students that are not entirely , often recommending the lawyers	help
+TRUE	neg_test788	the man that is not really , often meeting the lawyer was sleeping	sleep
+TRUE	neg_test1909	the man that was not often helping the doctor is following the student	follow
+FALSE	neg_test6426	the professors that were really , often sleeping were not totally , really calling the students	call
+FALSE	neg_test4511	the woman that the student is totally , entirely recommending was not dancing	dance
+FALSE	neg_test6393	the women that are dancing were not really recommending the professor	recommend
+TRUE	neg_test6859	the student was not really helping the man that the doctors are often calling	call
+TRUE	neg_test7828	the women are not often , totally following the doctors that are sleeping	sleep
+FALSE	neg_test4188	the doctor that the professor is following is not really , often , totally sleeping	sleep
+FALSE	neg_test1579	the men that are not recommending the professors were often meeting the student	recommend
+FALSE	neg_test5442	the students that the lawyers are calling were not following the man	follow
+TRUE	neg_test6949	the women were not really calling the lawyers that the scientist is meeting	meet
+FALSE	neg_test6017	the men that are often recommending the scientists are not often , really helping the doctor	help
+FALSE	neg_test1470	the students that the doctor is not really , totally recommending are really helping the lawyer	recommend
+TRUE	neg_test1447	the doctors that the man is not totally , often following were totally , entirely helping the women	help
+FALSE	neg_test5354	the man that the woman is totally meeting was not following the scientist	follow
+FALSE	neg_test2921	the men were recommending the doctor that the students were not entirely , totally calling	call
+TRUE	neg_test5375	the man that the doctor is helping is not totally , often following the woman	help
+FALSE	neg_test2915	the women were totally , really recommending the men that the lawyer is not really calling	call
+FALSE	neg_test2105	the doctor that is not often , really sleeping is totally following the student	sleep
+FALSE	neg_test3505	the professor is often , entirely helping the women that are not totally calling the student	call
+FALSE	neg_test3025	the scientist was helping the woman that the doctor was not totally , entirely recommending	recommend
+FALSE	neg_test3066	the women were really helping the professors that are not totally , entirely , really , often recommending the doctor	recommend
+TRUE	neg_test4303	the students that the women were really following are not dancing	follow
+TRUE	neg_test4674	the women that are recommending the lawyer are not entirely sleeping	recommend
+TRUE	neg_test5144	the men that the scientist was following were not entirely recommending the woman	follow
+TRUE	neg_test867	the doctors that are not totally , really calling the scientist are entirely , really sleeping	sleep
+FALSE	neg_test1882	the woman that was not helping the men is often recommending the student	help
+FALSE	neg_test4782	the scientist that was really , entirely , totally following the women was not dancing	dance
+FALSE	neg_test2495	the man that is not entirely dancing is entirely recommending the doctors	dance
+TRUE	neg_test6028	the man that is following the doctor was not calling the lawyer	follow
+FALSE	neg_test5222	the students that the man was following are not often , totally , entirely meeting the doctor	meet
+TRUE	neg_test741	the woman that was not often helping the professor is often dancing	dance
+TRUE	neg_test3904	the lawyers were calling the doctor that is not sleeping	call
+TRUE	neg_test6359	the doctor that was sleeping was not meeting the lawyers	sleep
+FALSE	neg_test875	the woman that was not meeting the men was sleeping	meet
+TRUE	neg_test7652	the women were not entirely , totally meeting the man that is often sleeping	sleep
+TRUE	neg_test6074	the women that are totally sleeping were not following the scientist	sleep
+FALSE	neg_test242	the woman that the man is not totally , really , entirely calling was sleeping	call
+TRUE	neg_test2222	the professors that are not totally sleeping are totally , entirely following the doctor	follow
+FALSE	neg_test1122	the professors that the student is not totally helping were totally calling the woman	help
+FALSE	neg_test6328	the woman that was totally , really dancing was not helping the student	help
+TRUE	neg_test4809	the scientist that is helping the student was not sleeping	help
+TRUE	neg_test516	the professors that were not often , totally , really meeting the men were sleeping	sleep
+FALSE	neg_test1909	the man that was not often helping the doctor is following the student	help
+TRUE	neg_test1907	the student that is not totally , really meeting the scientist was often calling the women	call
+FALSE	neg_test5471	the doctors that the students were helping were not entirely meeting the professor	meet
+FALSE	neg_test7955	the doctors are not recommending the scientist that is really sleeping	recommend
+TRUE	neg_test7538	the students were not following the women that were totally recommending the men	recommend
+TRUE	neg_test6805	the man was not meeting the women that the doctor is following	follow
+FALSE	neg_test6018	the scientists that were helping the man are not entirely following the lawyer	follow
+TRUE	neg_test2425	the men that are not totally dancing are calling the scientist	call
+TRUE	neg_test2518	the scientist that is not entirely , totally , often dancing is totally , often , entirely calling the professors	call
+FALSE	neg_test771	the woman that was not entirely meeting the scientist is often , really sleeping	meet
+FALSE	neg_test2791	the man was recommending the doctor that the lawyer was not helping	help
+TRUE	neg_test3070	the doctor is meeting the man that is not entirely , totally following the students	meet
+FALSE	neg_test6507	the professor that is entirely , really dancing is not totally recommending the students	recommend
+FALSE	neg_test3872	the scientist was totally , entirely calling the student that is not sleeping	sleep
+TRUE	neg_test6131	the students that were sleeping were not often , totally recommending the man	sleep
+FALSE	neg_test589	the lawyer that was not totally , often calling the professor was dancing	call
+TRUE	neg_test1853	the lawyer that was not entirely , totally meeting the scientists is totally helping the men	help
+TRUE	neg_test7494	the students were not calling the scientists that are entirely recommending the doctors	recommend
+TRUE	neg_test3992	the professor was really , totally , often following the man that is not really , often dancing	follow
+TRUE	neg_test1071	the students that the lawyer was not really , entirely following are calling the professors	call
+TRUE	neg_test387	the scientists that the students are not recommending were sleeping	sleep
+FALSE	neg_test4409	the professors that the women are entirely helping are not sleeping	sleep
+TRUE	neg_test4905	the lawyers that are often , totally following the student are not often , entirely , really sleeping	follow
+TRUE	neg_test2638	the woman is totally , really helping the professor that the scientists are not really , often following	help
+FALSE	neg_test3503	the lawyer is really , entirely calling the woman that is not totally following the scientist	follow
+TRUE	neg_test5629	the doctors that were often helping the man are not calling the lawyer	help
+TRUE	neg_test1547	the scientist that is not meeting the men is often following the doctors	follow
+TRUE	neg_test1470	the students that the doctor is not really , totally recommending are really helping the lawyer	help
+TRUE	neg_test1374	the scientists that the doctors were not entirely , totally , often following are helping the women	help
+TRUE	neg_test2013	the women that were not entirely , often following the men are totally meeting the student	meet
+FALSE	neg_test5812	the student that was totally following the scientist was not entirely , often calling the lawyer	call
+FALSE	neg_test6337	the scientist that is often , totally sleeping is not often , totally meeting the doctors	meet
+TRUE	neg_test6191	the woman that was entirely dancing is not entirely following the professor	dance
+FALSE	neg_test3232	the man was following the scientists that were not totally , really helping the professors	help
+TRUE	neg_test4286	the woman that the men are totally recommending was not often , really sleeping	recommend
+TRUE	neg_test3760	the lawyers are meeting the doctors that are not sleeping	meet
+TRUE	neg_test5702	the lawyers that are totally calling the women are not entirely helping the professors	call
+TRUE	neg_test5159	the scientist that the men are often helping is not meeting the women	help
+TRUE	neg_test261	the students that the men were not totally meeting were often dancing	dance
+FALSE	neg_test6805	the man was not meeting the women that the doctor is following	meet
+FALSE	neg_test2039	the professor that was not totally sleeping is meeting the students	sleep
+FALSE	neg_test3760	the lawyers are meeting the doctors that are not sleeping	sleep
+FALSE	neg_test7452	the men are not often recommending the professor that is really , totally following the woman	recommend
+TRUE	neg_test4441	the professors that the men are helping were not often dancing	help
+FALSE	neg_test6304	the lawyers that are entirely sleeping are not often helping the men	help
+TRUE	neg_test7005	the professor is not often meeting the doctor that the women were really , often helping	help
+TRUE	neg_test642	the men that were not often meeting the professor are entirely , often dancing	dance
+TRUE	neg_test5270	the doctor that the women are meeting is not often following the students	meet
+FALSE	neg_test5237	the students that the men were entirely following are not helping the professor	help
+FALSE	neg_test7774	the doctor is not meeting the professor that is totally , really sleeping	meet
+FALSE	neg_test5500	the professor that the women were entirely recommending is not following the doctor	follow
+FALSE	neg_test3145	the student was helping the scientist that was not totally recommending the man	recommend
+FALSE	neg_test2061	the man that was not totally , entirely dancing is totally , often helping the doctor	dance
+TRUE	neg_test3794	the man was totally following the scientists that were not sleeping	follow
+TRUE	neg_test2271	the scientist that is not often dancing is helping the lawyers	help
+FALSE	neg_test7517	the man was not totally , entirely following the doctors that were really recommending the professors	follow
+TRUE	neg_test1490	the professors that the men are not recommending were really following the doctors	follow
+TRUE	neg_test3503	the lawyer is really , entirely calling the woman that is not totally following the scientist	call
+TRUE	neg_test57	the woman that the lawyer is not entirely meeting is totally dancing	dance
+TRUE	neg_test4512	the men that the women were entirely following were not often , really dancing	follow
+FALSE	neg_test215	the lawyers that the professor is not often meeting are often dancing	meet
+TRUE	neg_test3025	the scientist was helping the woman that the doctor was not totally , entirely recommending	help
+TRUE	neg_test4018	the scientists are entirely , often , totally following the lawyer that is not dancing	follow
+TRUE	neg_test5671	the scientists that are totally helping the lawyer were not totally calling the student	help
+TRUE	neg_test5621	the professor that is recommending the men is not totally meeting the doctors	recommend
+FALSE	neg_test3631	the woman is often , really following the doctor that was not dancing	dance
+TRUE	neg_test2061	the man that was not totally , entirely dancing is totally , often helping the doctor	help
+TRUE	neg_test962	the women that were not following the scientist were entirely , totally , really sleeping	sleep
+FALSE	neg_test1410	the professors that the women were not totally recommending were calling the scientist	recommend
+TRUE	neg_test4427	the professor that the woman is totally meeting was not totally , really dancing	meet
+FALSE	neg_test7801	the student was not helping the lawyer that is often , totally , entirely sleeping	help
+FALSE	neg_test5001	the doctor that was entirely , often helping the lawyer is not entirely sleeping	sleep
+FALSE	neg_test7908	the scientist was not often calling the woman that is entirely sleeping	call
+FALSE	neg_test3523	the doctors are really recommending the woman that is not helping the scientist	help
+TRUE	neg_test3523	the doctors are really recommending the woman that is not helping the scientist	recommend
+TRUE	neg_test4409	the professors that the women are entirely helping are not sleeping	help
+FALSE	neg_test2319	the scientists that are not totally , entirely dancing are entirely following the men	dance
+FALSE	neg_test1204	the students that the women were not entirely , totally recommending were following the professors	recommend
+FALSE	neg_test1326	the lawyer that the doctor was not entirely recommending is often , really meeting the man	recommend
+FALSE	neg_test1374	the scientists that the doctors were not entirely , totally , often following are helping the women	follow
+FALSE	neg_test723	the students that are not recommending the woman were really dancing	recommend
+TRUE	neg_test5812	the student that was totally following the scientist was not entirely , often calling the lawyer	follow
+TRUE	neg_test3900	the professors are totally helping the doctor that was not totally dancing	help
+TRUE	neg_test6760	the students were not really calling the lawyers that the women are meeting	meet
+FALSE	neg_test4322	the doctor that the woman was really meeting was not sleeping	sleep
+TRUE	neg_test5213	the scientist that the doctors are often calling was not often , entirely , totally following the professor	call
+TRUE	neg_test3396	the lawyer is entirely following the women that were not entirely calling the students	follow
+TRUE	neg_test3039	the lawyer was entirely calling the scientists that are not helping the student	call
+TRUE	neg_test4188	the doctor that the professor is following is not really , often , totally sleeping	follow
+TRUE	neg_test7708	the lawyers are not really meeting the woman that is dancing	dance
+FALSE	neg_test3070	the doctor is meeting the man that is not entirely , totally following the students	follow
+TRUE	neg_test3851	the doctor is entirely helping the professors that were not often sleeping	help
+TRUE	neg_test7020	the professors are not totally , entirely calling the lawyer that the doctors are really meeting	meet
+TRUE	neg_test7694	the professor is not entirely calling the lawyer that is often , really dancing	dance
+TRUE	neg_test3910	the doctor is often , really , totally meeting the scientist that is not totally , really dancing	meet
+TRUE	neg_test5538	the professor that the women are often , entirely , totally calling is not entirely , totally meeting the lawyers	call
+FALSE	neg_test6943	the women are not following the doctors that the man was recommending	follow
+FALSE	neg_test6876	the women were not calling the professor that the doctors are really meeting	call
+TRUE	neg_test4604	the men that were helping the doctor are not often , totally , really dancing	help
+TRUE	neg_test1125	the men that the doctors are not entirely recommending are often helping the scientist	help
+TRUE	neg_test191	the woman that the student was not totally , entirely helping is dancing	dance
+FALSE	neg_test7662	the lawyer was not often , really , entirely helping the scientist that was entirely , totally sleeping	help
+FALSE	neg_test1817	the doctor that is not often following the woman was meeting the lawyers	follow
+TRUE	neg_test4057	the professor that the woman was totally recommending was not really dancing	recommend
+FALSE	neg_test184	the student that the scientist is not often helping was entirely sleeping	help
+TRUE	neg_test3292	the women were really , often following the scientist that was not totally recommending the lawyer	follow
+TRUE	neg_test2137	the students that were not entirely sleeping are recommending the women	recommend
+TRUE	neg_test864	the students that were not following the doctor are really , entirely dancing	dance
+FALSE	neg_test250	the professor that the students were not often , totally meeting was entirely sleeping	meet
+TRUE	neg_test2503	the professor that was not dancing is following the student	follow
+FALSE	neg_test2363	the student that was not dancing was following the professor	dance
+TRUE	neg_test2294	the student that was not really , often dancing was helping the woman	help
+FALSE	neg_test1496	the doctors that the lawyer was not totally recommending were entirely , often calling the women	recommend
+FALSE	neg_test1421	the scientist that the man is not following is calling the women	follow
+TRUE	neg_test4948	the student that was really , totally helping the man was not totally sleeping	help
+FALSE	neg_test7321	the scientists are not often recommending the lawyers that were really following the doctor	recommend
+TRUE	neg_test4771	the doctor that was totally , often helping the professors was not often sleeping	help
+TRUE	neg_test2711	the professor was totally meeting the scientists that the lawyer is not entirely recommending	meet
+TRUE	neg_test1579	the men that are not recommending the professors were often meeting the student	meet
+FALSE	neg_test4817	the scientist that was following the men was not often , totally dancing	dance
+FALSE	neg_test4869	the students that are totally , entirely , really meeting the woman were not entirely , often sleeping	sleep
+TRUE	neg_test4857	the students that were often , really following the woman are not totally , really dancing	follow
+FALSE	neg_test1652	the lawyers that are not calling the scientist were often recommending the doctors	call
+TRUE	neg_test1297	the men that the lawyers are not entirely following are often recommending the scientist	recommend
+TRUE	neg_test81	the scientists that the professors are not totally meeting were sleeping	sleep
+TRUE	neg_test4808	the women that are meeting the doctors are not often , entirely sleeping	meet
+TRUE	neg_test5882	the professors that were really , totally calling the women were not entirely helping the scientist	call
+FALSE	neg_test807	the men that are not meeting the student were dancing	meet
+FALSE	neg_test6249	the man that is often sleeping was not recommending the professors	recommend
+TRUE	neg_test4418	the professor that the women were totally helping was not really dancing	help
+TRUE	neg_test4060	the professors that the man was meeting are not really dancing	meet
+TRUE	neg_test26	the man that the lawyer was not following is often dancing	dance
+TRUE	neg_test576	the man that is not totally meeting the professor was dancing	dance
+FALSE	neg_test5511	the lawyer that the woman was calling is not recommending the scientist	recommend
+FALSE	neg_test510	the professor that is not meeting the lawyers was dancing	meet
+TRUE	neg_test1184	the women that the doctors were not really meeting were entirely , often calling the lawyer	call
+TRUE	neg_test7498	the man is not calling the woman that is totally , entirely meeting the scientist	meet
+FALSE	neg_test2711	the professor was totally meeting the scientists that the lawyer is not entirely recommending	recommend
+TRUE	neg_test3627	the students were often meeting the men that are not totally sleeping	meet
+TRUE	neg_test2389	the woman that is not really , entirely sleeping is often recommending the lawyer	recommend
+FALSE	neg_test5213	the scientist that the doctors are often calling was not often , entirely , totally following the professor	follow
+FALSE	neg_test5134	the doctor that the lawyer was helping is not often calling the man	call
+TRUE	neg_test5222	the students that the man was following are not often , totally , entirely meeting the doctor	follow
+TRUE	neg_test6178	the scientist that was sleeping was not totally helping the students	sleep
+TRUE	neg_test7469	the men were not often , totally calling the student that was often meeting the woman	meet
+TRUE	neg_test2060	the women that were not entirely sleeping were often , entirely recommending the scientist	recommend
+TRUE	neg_test1833	the professors that were not often following the students were entirely calling the man	call
+FALSE	neg_test2222	the professors that are not totally sleeping are totally , entirely following the doctor	sleep
+TRUE	neg_test7792	the doctor was not totally , really recommending the professor that was entirely dancing	dance
+TRUE	neg_test393	the professors that the man is not recommending were entirely , totally sleeping	sleep
+FALSE	neg_test6475	the scientists that are sleeping are not really helping the man	help
+FALSE	neg_test1940	the scientists that are not entirely , totally calling the lawyer were recommending the men	call
+FALSE	neg_test4928	the doctors that were helping the students are not entirely dancing	dance
+FALSE	neg_test5520	the lawyers that the doctors are entirely helping were not calling the students	call
+FALSE	neg_test6990	the students are not totally recommending the lawyers that the scientists are calling	recommend
+TRUE	neg_test1511	the woman that the men were not often helping is really , totally following the scientists	follow
+TRUE	neg_test4841	the man that is really recommending the student was not sleeping	recommend
+TRUE	neg_test6876	the women were not calling the professor that the doctors are really meeting	meet
+FALSE	neg_test919	the man that was not calling the woman is really , totally dancing	call
+FALSE	neg_test1996	the doctors that are not entirely meeting the men were really following the woman	meet
+TRUE	neg_test6017	the men that are often recommending the scientists are not often , really helping the doctor	recommend
+FALSE	neg_test6140	the student that was entirely , really , totally dancing was not really following the woman	follow
+FALSE	neg_test4905	the lawyers that are often , totally following the student are not often , entirely , really sleeping	sleep
+FALSE	neg_test1833	the professors that were not often following the students were entirely calling the man	follow
+FALSE	neg_test3364	the students were helping the scientist that was not often meeting the man	meet
+FALSE	neg_test6131	the students that were sleeping were not often , totally recommending the man	recommend
+FALSE	neg_test3851	the doctor is entirely helping the professors that were not often sleeping	sleep
+FALSE	neg_test5554	the professors that the women are really meeting were not calling the man	call
+FALSE	neg_test917	the doctor that was not totally meeting the woman is sleeping	meet
+FALSE	neg_test6760	the students were not really calling the lawyers that the women are meeting	call
+TRUE	neg_test6639	the lawyers were not really , entirely , totally helping the doctors that the woman was entirely following	follow
+FALSE	neg_test958	the men that are not entirely recommending the scientists were entirely dancing	recommend
+TRUE	neg_test7517	the man was not totally , entirely following the doctors that were really recommending the professors	recommend
+FALSE	neg_test6028	the man that is following the doctor was not calling the lawyer	call
+FALSE	neg_test2503	the professor that was not dancing is following the student	dance
+FALSE	neg_test3983	the man was calling the scientists that are not entirely sleeping	sleep
+TRUE	neg_test3631	the woman is often , really following the doctor that was not dancing	follow
+FALSE	neg_test4976	the professor that was entirely , really helping the doctors is not often , entirely dancing	dance
+TRUE	neg_test4817	the scientist that was following the men was not often , totally dancing	follow
+FALSE	neg_test6138	the professors that were dancing were not entirely , often calling the lawyer	call
+TRUE	neg_test5511	the lawyer that the woman was calling is not recommending the scientist	call
+TRUE	neg_test2439	the professor that was not really , entirely sleeping is totally recommending the lawyer	recommend
+TRUE	neg_test3822	the scientists were really calling the professor that is not often , really , totally , entirely sleeping	call
+FALSE	neg_test7708	the lawyers are not really meeting the woman that is dancing	meet
+TRUE	neg_test242	the woman that the man is not totally , really , entirely calling was sleeping	sleep
+TRUE	neg_test7989	the students were not totally , often meeting the lawyers that are totally , really dancing	dance
+FALSE	neg_test5375	the man that the doctor is helping is not totally , often following the woman	follow
+FALSE	neg_test5434	the lawyer that the professor was really , totally calling was not really , often recommending the doctors	recommend
+FALSE	neg_test4363	the lawyer that the student was often , entirely , totally following is not totally dancing	dance
+FALSE	neg_test2013	the women that were not entirely , often following the men are totally meeting the student	follow
+TRUE	neg_test1978	the women that were not calling the scientist are often meeting the students	meet
+FALSE	neg_test1	the men that the professor was not often , totally following are entirely , really , totally dancing	follow
+FALSE	neg_test7893	the woman was not meeting the professor that was totally sleeping	meet
+FALSE	neg_test2679	the student was following the professor that the lawyers were not entirely helping	help
+TRUE	neg_test4322	the doctor that the woman was really meeting was not sleeping	meet
+FALSE	neg_test3904	the lawyers were calling the doctor that is not sleeping	sleep
+TRUE	neg_test7477	the man is not often , totally following the lawyer that is totally helping the professors	help
+TRUE	neg_test6542	the scientist that was sleeping was not entirely , really calling the woman	sleep
+TRUE	neg_test1707	the professors that were not totally , entirely recommending the lawyer were totally helping the scientists	help
+TRUE	neg_test5391	the students that the man was really , often helping were not often recommending the doctor	help
+TRUE	neg_test5552	the student that the women were entirely , often meeting is not recommending the lawyer	meet
+FALSE	neg_test4155	the men that the professor is often calling were not often sleeping	sleep
+TRUE	neg_test4093	the scientists that the student is often meeting were not really sleeping	meet
+FALSE	neg_test2638	the woman is totally , really helping the professor that the scientists are not really , often following	follow
+TRUE	neg_test4466	the professors that the student is really helping were not often sleeping	help
+FALSE	neg_test5629	the doctors that were often helping the man are not calling the lawyer	call
+TRUE	neg_test7016	the students are not totally , really following the men that the professor was really meeting	meet
+FALSE	neg_test5747	the man that is following the professor was not totally , often recommending the doctors	recommend
+TRUE	neg_test6488	the professors that are totally dancing were not following the lawyer	dance
+TRUE	neg_test979	the scientists that are not really meeting the student were dancing	dance
+TRUE	neg_test3752	the student was really calling the lawyer that was not entirely sleeping	call
+TRUE	neg_test1522	the lawyer that the doctor is not really following was often meeting the scientist	meet
+TRUE	neg_test1846	the doctors that were not totally , often , entirely , really following the women were often , really calling the scientist	call
+TRUE	neg_test5312	the student that the men are entirely , totally helping is not meeting the doctors	help
+FALSE	neg_test2768	the doctor is following the men that the woman is not totally calling	call
+FALSE	neg_test5159	the scientist that the men are often helping is not meeting the women	meet
+FALSE	neg_test2137	the students that were not entirely sleeping are recommending the women	sleep
+FALSE	neg_test3640	the professor was recommending the lawyer that was not totally , entirely sleeping	sleep
+TRUE	neg_test7365	the man was not recommending the lawyers that are calling the women	call
+FALSE	neg_test6191	the woman that was entirely dancing is not entirely following the professor	follow
+FALSE	neg_test5043	the man that is often sleeping was not dancing	dance
+TRUE	neg_test5426	the professor that the man was often recommending was not entirely helping the women	recommend
+FALSE	neg_test118	the doctors that the students were not following were really , entirely dancing	follow
+TRUE	neg_test8022	the lawyer is not recommending the scientist that was really sleeping	sleep
+TRUE	neg_test1668	the man that is not meeting the professors was often , totally helping the scientist	help
+FALSE	neg_test4544	the scientists that were following the women were not sleeping	sleep
+FALSE	neg_test7494	the students were not calling the scientists that are entirely recommending the doctors	call
+TRUE	neg_test6153	the professors that are often sleeping are not really , entirely meeting the scientist	sleep
+FALSE	neg_test4563	the doctors that were really recommending the lawyers are not entirely , often dancing	dance
+FALSE	neg_test7016	the students are not totally , really following the men that the professor was really meeting	follow
+FALSE	neg_test7171	the doctors are not often , entirely recommending the man that is following the woman	recommend
+TRUE	neg_test5120	the lawyer that the students were really , totally recommending is not often calling the women	recommend
+TRUE	neg_test53	the lawyers that the student was not often recommending are often , entirely sleeping	sleep
+FALSE	neg_test4809	the scientist that is helping the student was not sleeping	sleep
+FALSE	neg_test3647	the students are really recommending the man that is not entirely sleeping	sleep
+TRUE	neg_test5643	the student that was helping the scientists is not totally meeting the woman	help
+FALSE	neg_test5671	the scientists that are totally helping the lawyer were not totally calling the student	call
+FALSE	neg_test2235	the lawyers that were not totally sleeping were totally , entirely meeting the woman	sleep
+TRUE	neg_test1816	the women that are not really meeting the doctor were often following the lawyer	follow
+TRUE	neg_test6475	the scientists that are sleeping are not really helping the man	sleep
+TRUE	neg_test7471	the woman was not really , entirely calling the professors that are recommending the scientists	recommend
+FALSE	neg_test1244	the students that the women were not totally , entirely helping are totally meeting the scientist	help
+FALSE	neg_test2999	the professors were entirely , totally meeting the students that the men are not recommending	recommend
+FALSE	neg_test4038	the lawyers that the scientists are helping were not sleeping	sleep
+FALSE	neg_test642	the men that were not often meeting the professor are entirely , often dancing	meet
+TRUE	neg_test2624	the scientist is recommending the lawyer that the student is not following	recommend
+TRUE	neg_test2226	the scientists that were not totally sleeping were often , really , entirely following the student	follow
+TRUE	neg_test5638	the professor that is entirely , totally following the students is not entirely , totally recommending the lawyer	follow
+TRUE	neg_test1956	the scientists that are not following the professor were totally meeting the women	meet
+FALSE	neg_test4700	the scientist that was helping the students was not entirely dancing	dance
+FALSE	neg_test6238	the students that were sleeping are not entirely recommending the lawyer	recommend
+TRUE	neg_test1414	the professor that the man was not totally helping was really , entirely meeting the scientists	meet
+TRUE	neg_test2192	the students that are not totally , entirely , really sleeping are totally , often helping the professors	help
+TRUE	neg_test6800	the lawyers are not often , really , entirely , totally meeting the student that the professor is entirely , often recommending	recommend
+FALSE	neg_test6756	the professor was not entirely , totally meeting the doctors that the women are following	meet
+FALSE	neg_test4450	the doctors that the men were meeting are not totally , really dancing	dance
+TRUE	neg_test7095	the professor was not really calling the doctors that are helping the men	help
+FALSE	neg_test5187	the student that the doctor was totally following is not often calling the lawyers	call
+TRUE	neg_test99	the doctors that the professors were not really , totally following are entirely , totally , really dancing	dance
+TRUE	neg_test5237	the students that the men were entirely following are not helping the professor	follow
+FALSE	neg_test7251	the men are not recommending the doctor that is really helping the professor	recommend
+FALSE	neg_test2059	the men that are not dancing are meeting the lawyers	dance
+FALSE	neg_test1978	the women that were not calling the scientist are often meeting the students	call
+FALSE	neg_test2629	the scientist is helping the professors that the student was not totally , really recommending	recommend
+FALSE	neg_test6442	the lawyer that is dancing was not totally , often recommending the students	recommend
+TRUE	neg_test7321	the scientists are not often recommending the lawyers that were really following the doctor	follow
+TRUE	neg_test7171	the doctors are not often , entirely recommending the man that is following the woman	follow
+FALSE	neg_test7765	the doctors were not totally , entirely recommending the man that was entirely sleeping	recommend
+TRUE	neg_test5134	the doctor that the lawyer was helping is not often calling the man	help
+FALSE	neg_test7471	the woman was not really , entirely calling the professors that are recommending the scientists	call
+TRUE	neg_test5500	the professor that the women were entirely recommending is not following the doctor	recommend
+TRUE	neg_test4711	the lawyer that is following the man is not really , entirely sleeping	follow
+TRUE	neg_test2102	the lawyer that is not totally sleeping is totally following the men	follow
+FALSE	neg_test1853	the lawyer that was not entirely , totally meeting the scientists is totally helping the men	meet
+FALSE	neg_test1907	the student that is not totally , really meeting the scientist was often calling the women	meet
+FALSE	neg_test6030	the students that are totally helping the scientists were not often following the professor	follow
+FALSE	neg_test4093	the scientists that the student is often meeting were not really sleeping	sleep
+TRUE	neg_test2672	the doctors were meeting the lawyers that the scientists are not entirely recommending	meet
+FALSE	neg_test1668	the man that is not meeting the professors was often , totally helping the scientist	meet
+FALSE	neg_test3428	the student was entirely calling the lawyer that is not really , entirely following the doctor	follow
+FALSE	neg_test988	the men that are not totally , really calling the student are dancing	call
+TRUE	neg_test6439	the women that are often dancing were not totally , often meeting the scientist	dance
+FALSE	neg_test5358	the men that the scientists were entirely meeting are not often , really , totally calling the student	call
+FALSE	neg_test3235	the professors were following the lawyer that was not totally , really meeting the student	meet
+FALSE	neg_test4042	the women that the lawyers were often , totally meeting were not sleeping	sleep
+TRUE	neg_test7354	the women are not often , totally , entirely helping the lawyers that are entirely meeting the scientist	meet
+TRUE	neg_test1882	the woman that was not helping the men is often recommending the student	recommend
+TRUE	neg_test7774	the doctor is not meeting the professor that is totally , really sleeping	sleep
+FALSE	neg_test4771	the doctor that was totally , often helping the professors was not often sleeping	sleep
+TRUE	neg_test215	the lawyers that the professor is not often meeting are often dancing	dance
+TRUE	neg_test1377	the doctors that the woman is not entirely helping were following the professors	follow
+FALSE	neg_test942	the doctor that is not totally , entirely following the professor is entirely sleeping	follow
+TRUE	neg_test1489	the scientist that the man is not really , often following is really , entirely calling the doctors	call
+FALSE	neg_test2438	the doctor that was not really , often , entirely sleeping was really following the women	sleep
+FALSE	neg_test1294	the men that the scientist is not really , often recommending are meeting the lawyers	recommend
+TRUE	neg_test3924	the professors were really helping the student that is not often sleeping	help
+FALSE	neg_test1367	the students that the lawyers were not really , totally meeting are helping the doctors	meet
+FALSE	neg_test5144	the men that the scientist was following were not entirely recommending the woman	recommend
+FALSE	neg_test7075	the women are not really , often recommending the lawyer that was entirely helping the professors	recommend
+TRUE	neg_test7159	the student is not calling the professor that is totally , entirely helping the men	help
+FALSE	neg_test4849	the women that are often following the doctors were not really sleeping	sleep
+TRUE	neg_test1438	the doctor that the professor was not often , entirely helping is totally , entirely , really recommending the man	recommend
+TRUE	neg_test2791	the man was recommending the doctor that the lawyer was not helping	recommend
+TRUE	neg_test3158	the lawyers were recommending the man that was not entirely calling the scientists	recommend
+TRUE	neg_test2687	the students are following the women that the doctors were not entirely , totally recommending	follow
+FALSE	neg_test5521	the student that the doctors are often meeting is not really following the professor	follow
+FALSE	neg_test352	the scientists that the women are not often , really helping are totally sleeping	help
+FALSE	neg_test5411	the professors that the lawyers are entirely , often following were not really , entirely helping the doctor	help
+FALSE	neg_test4302	the students that the woman is entirely , really meeting were not really sleeping	sleep
+FALSE	neg_test99	the doctors that the professors were not really , totally following are entirely , totally , really dancing	follow
+FALSE	neg_test788	the man that is not really , often meeting the lawyer was sleeping	meet
+TRUE	neg_test2319	the scientists that are not totally , entirely dancing are entirely following the men	follow
+TRUE	neg_test5074	the man that the scientist is really following was not totally meeting the students	follow
+TRUE	neg_test6018	the scientists that were helping the man are not entirely following the lawyer	help
+TRUE	neg_test6083	the man that is entirely , totally dancing was not following the lawyer	dance
+TRUE	neg_test1326	the lawyer that the doctor was not entirely recommending is often , really meeting the man	meet
+TRUE	neg_test89	the doctor that the students were not helping was really sleeping	sleep
+TRUE	neg_test3038	the men were really helping the lawyers that are not really recommending the student	help
+TRUE	neg_test6395	the professors that are often , entirely dancing were not really , totally following the man	dance
+TRUE	neg_test5442	the students that the lawyers are calling were not following the man	call
+FALSE	neg_test393	the professors that the man is not recommending were entirely , totally sleeping	recommend
+FALSE	neg_test294	the doctors that the scientist is not often , really calling were really dancing	call
+TRUE	neg_test4134	the doctor that the students were totally calling was not really , entirely , often sleeping	call
+FALSE	neg_test7828	the women are not often , totally following the doctors that are sleeping	follow
+FALSE	neg_test1511	the woman that the men were not often helping is really , totally following the scientists	help
+TRUE	neg_test1462	the scientists that the doctors were not totally following are really calling the student	call
+FALSE	neg_test1054	the student that the man was not often following was meeting the women	follow
+TRUE	neg_test875	the woman that was not meeting the men was sleeping	sleep
+FALSE	neg_test75	the students that the scientists were not entirely meeting were entirely , really dancing	meet
+TRUE	neg_test771	the woman that was not entirely meeting the scientist is often , really sleeping	sleep
+FALSE	neg_test3874	the man was often , entirely calling the lawyers that are not entirely dancing	dance
+FALSE	neg_test1709	the scientist that is not recommending the men was following the lawyer	recommend
+FALSE	neg_test3051	the lawyer is entirely , totally recommending the man that is not helping the scientists	help
+FALSE	neg_test5249	the doctor that the professor was calling is not entirely , often following the man	follow
+FALSE	neg_test7498	the man is not calling the woman that is totally , entirely meeting the scientist	call
+TRUE	neg_test510	the professor that is not meeting the lawyers was dancing	dance
+FALSE	neg_test3498	the women are totally helping the students that are not entirely , often recommending the lawyers	recommend
+TRUE	neg_test6990	the students are not totally recommending the lawyers that the scientists are calling	call
+TRUE	neg_test6058	the doctor that is really , totally dancing is not following the scientists	dance
+FALSE	neg_test3361	the lawyer is entirely helping the student that is not entirely , really recommending the doctor	recommend
+FALSE	neg_test2859	the professors are really recommending the doctors that the students are not totally calling	call
+TRUE	neg_test3613	the doctors are helping the scientist that is not entirely sleeping	help
+TRUE	neg_test668	the women that were not really helping the scientist are often , entirely , totally sleeping	sleep
+TRUE	neg_test3347	the men are recommending the lawyer that is not entirely calling the student	recommend
+TRUE	neg_test5602	the professor that was entirely , really following the woman is not often calling the lawyer	follow
+FALSE	neg_test5997	the professors that were really , often helping the man are not totally meeting the scientists	meet
+FALSE	neg_test7469	the men were not often , totally calling the student that was often meeting the woman	call
+FALSE	neg_test7441	the woman was not really helping the scientist that is following the men	help
+FALSE	neg_test7514	the scientists are not helping the woman that was really recommending the lawyers	help
+TRUE	neg_test1106	the professor that the scientist is not entirely , totally helping was often , entirely recommending the doctors	recommend
+TRUE	neg_test7368	the professors were not calling the lawyer that is recommending the doctor	recommend
+TRUE	neg_test2495	the man that is not entirely dancing is entirely recommending the doctors	recommend
+TRUE	neg_test6358	the lawyers that are dancing were not totally , often following the professors	dance
+TRUE	neg_test274	the professor that the lawyer was not often calling was often , really sleeping	sleep
+FALSE	neg_test4711	the lawyer that is following the man is not really , entirely sleeping	sleep
+TRUE	neg_test3641	the lawyers were totally , often helping the scientists that are not totally sleeping	help
+TRUE	neg_test1919	the lawyers that were not totally , really meeting the women were recommending the professors	recommend
+FALSE	neg_test1969	the men that are not totally following the student were entirely recommending the scientist	follow
+TRUE	neg_test3677	the doctor is calling the man that was not entirely dancing	call
+TRUE	neg_test6393	the women that are dancing were not really recommending the professor	dance
+TRUE	neg_test7712	the scientists are not often calling the doctor that is really , entirely dancing	dance
+FALSE	neg_test7020	the professors are not totally , entirely calling the lawyer that the doctors are really meeting	call
+FALSE	neg_test57	the woman that the lawyer is not entirely meeting is totally dancing	meet
+FALSE	neg_test8022	the lawyer is not recommending the scientist that was really sleeping	recommend
+TRUE	neg_test4107	the professors that the lawyers are often helping are not sleeping	help
+TRUE	neg_test5146	the woman that the lawyer is helping is not meeting the professor	help
+TRUE	neg_test6630	the scientists were not helping the women that the doctor was really , often following	follow
+TRUE	neg_test5434	the lawyer that the professor was really , totally calling was not really , often recommending the doctors	call
+TRUE	neg_test1670	the professor that was not really helping the scientists is calling the women	call
+TRUE	neg_test3361	the lawyer is entirely helping the student that is not entirely , really recommending the doctor	help
+FALSE	neg_test7844	the men are not totally following the scientists that were sleeping	follow
+TRUE	neg_test6140	the student that was entirely , really , totally dancing was not really following the woman	dance
+FALSE	neg_test6977	the doctors are not meeting the professor that the men are really , totally following	meet
+TRUE	neg_test6855	the men are not totally calling the woman that the scientists were totally meeting	meet
+TRUE	neg_test4700	the scientist that was helping the students was not entirely dancing	help
+TRUE	neg_test2921	the men were recommending the doctor that the students were not entirely , totally calling	recommend
+TRUE	neg_test4715	the doctors that were recommending the students are not often sleeping	recommend
+TRUE	neg_test7844	the men are not totally following the scientists that were sleeping	sleep
+TRUE	neg_test2173	the scientists that are not totally sleeping are following the women	follow
+FALSE	neg_test3432	the man was often , totally calling the woman that was not totally following the students	follow
+TRUE	neg_test2648	the student was often , entirely following the professors that the women are not totally , entirely , really calling	follow
+FALSE	neg_test3832	the students were recommending the doctor that was not dancing	dance
+TRUE	neg_test4579	the doctor that is meeting the man is not often sleeping	meet
+TRUE	neg_test352	the scientists that the women are not often , really helping are totally sleeping	sleep
+TRUE	neg_test1850	the men that were not totally , really recommending the professor were calling the students	call
+TRUE	neg_test6328	the woman that was totally , really dancing was not helping the student	dance
+TRUE	neg_test6426	the professors that were really , often sleeping were not totally , really calling the students	sleep
+FALSE	neg_test4716	the professor that was really following the woman was not entirely sleeping	sleep
+FALSE	neg_test176	the student that the women were not meeting is entirely sleeping	meet
+TRUE	neg_test1570	the woman that is not calling the men is entirely helping the professors	help
+FALSE	neg_test2648	the student was often , entirely following the professors that the women are not totally , entirely , really calling	call
+FALSE	neg_test567	the professor that was not following the woman was often , entirely dancing	follow
+TRUE	neg_test2742	the professor is really following the students that the doctors were not totally , entirely recommending	follow
+TRUE	neg_test6718	the men were not really , totally recommending the lawyer that the doctors are really following	follow
+TRUE	neg_test5431	the doctors that the student was often meeting were not entirely calling the women	meet
+TRUE	neg_test4566	the students that are meeting the lawyer were not often sleeping	meet
+TRUE	neg_test1972	the man that is not totally , really meeting the professor was really following the woman	follow
+FALSE	neg_test6040	the professor that is helping the students is not entirely calling the men	call
+FALSE	neg_test3298	the students are totally , entirely , often calling the doctors that are not often helping the lawyers	help
+TRUE	neg_test3235	the professors were following the lawyer that was not totally , really meeting the student	follow
+TRUE	neg_test1996	the doctors that are not entirely meeting the men were really following the woman	follow
+TRUE	neg_test14	the men that the women are not often meeting are sleeping	sleep
+TRUE	neg_test3051	the lawyer is entirely , totally recommending the man that is not helping the scientists	recommend
+FALSE	neg_test7989	the students were not totally , often meeting the lawyers that are totally , really dancing	meet
+FALSE	neg_test288	the professor that the scientists were not often calling is often , entirely dancing	call
+TRUE	neg_test7610	the students are not entirely meeting the lawyers that were really , entirely sleeping	sleep
+TRUE	neg_test3066	the women were really helping the professors that are not totally , entirely , really , often recommending the doctor	help
+TRUE	neg_test5041	the woman that was really , totally dancing is not really , totally , entirely sleeping	dance
+FALSE	neg_test867	the doctors that are not totally , really calling the scientist are entirely , really sleeping	call
+FALSE	neg_test7712	the scientists are not often calling the doctor that is really , entirely dancing	call
+FALSE	neg_test6859	the student was not really helping the man that the doctors are often calling	help
+FALSE	neg_test2602	the men are entirely helping the women that the lawyer was not entirely recommending	recommend
+FALSE	neg_test4030	the lawyers that the student is often , really meeting were not totally , often dancing	dance
+FALSE	neg_test4715	the doctors that were recommending the students are not often sleeping	sleep
+FALSE	neg_test3992	the professor was really , totally , often following the man that is not really , often dancing	dance
+FALSE	neg_test3677	the doctor is calling the man that was not entirely dancing	dance
+TRUE	neg_test3232	the man was following the scientists that were not totally , really helping the professors	follow
+FALSE	neg_test6359	the doctor that was sleeping was not meeting the lawyers	meet
+FALSE	neg_test5101	the professor that the women are entirely recommending was not entirely meeting the man	meet
+FALSE	neg_test254	the women that the man is not meeting are sleeping	meet
+TRUE	neg_test4038	the lawyers that the scientists are helping were not sleeping	help
+FALSE	neg_test2389	the woman that is not really , entirely sleeping is often recommending the lawyer	sleep
+TRUE	neg_test8010	the man is not entirely , often meeting the woman that is often , totally , really sleeping	sleep
+FALSE	neg_test4303	the students that the women were really following are not dancing	dance
+FALSE	neg_test2102	the lawyer that is not totally sleeping is totally following the men	sleep
+TRUE	neg_test7908	the scientist was not often calling the woman that is entirely sleeping	sleep
+TRUE	neg_test194	the woman that the scientist is not recommending was totally , really sleeping	sleep
+FALSE	neg_test7792	the doctor was not totally , really recommending the professor that was entirely dancing	recommend
+TRUE	neg_test5693	the woman that was totally , really , often calling the doctors was not really meeting the student	call
+TRUE	neg_test2919	the professor was totally calling the lawyer that the student was not really , often , totally helping	call
+TRUE	neg_test3491	the men are really following the doctors that are not helping the women	follow
+TRUE	neg_test7350	the professor is not helping the scientists that were really calling the woman	call
+TRUE	neg_test5963	the scientist that is really , entirely calling the students was not really helping the professor	call
+TRUE	neg_test1652	the lawyers that are not calling the scientist were often recommending the doctors	recommend
+TRUE	neg_test2235	the lawyers that were not totally sleeping were totally , entirely meeting the woman	meet
+FALSE	neg_test8048	the scientist is not following the lawyers that were entirely , really , totally sleeping	follow
+FALSE	neg_test191	the woman that the student was not totally , entirely helping is dancing	help
+TRUE	neg_test4392	the scientists that the students were totally meeting are not dancing	meet
+FALSE	neg_test6058	the doctor that is really , totally dancing is not following the scientists	follow
+TRUE	neg_test1999	the woman that was not meeting the men was helping the student	help
+TRUE	neg_test5249	the doctor that the professor was calling is not entirely , often following the man	call
+TRUE	neg_test8035	the man was not entirely helping the doctor that was totally dancing	dance
+TRUE	neg_test570	the scientist that was not really calling the professors was entirely sleeping	sleep
+TRUE	neg_test2618	the students are really meeting the scientists that the man was not really following	meet
+TRUE	neg_test3872	the scientist was totally , entirely calling the student that is not sleeping	call
+TRUE	neg_test7872	the men were not recommending the lawyer that is dancing	dance
+FALSE	neg_test6542	the scientist that was sleeping was not entirely , really calling the woman	call
+FALSE	neg_test1522	the lawyer that the doctor is not really following was often meeting the scientist	follow
+FALSE	neg_test5709	the lawyers that were meeting the man were not really following the scientist	follow
+TRUE	neg_test1864	the scientist that is not really , entirely following the student is entirely , totally meeting the professor	meet
+TRUE	neg_test257	the scientists that the man is not really , often , entirely following were sleeping	sleep
+FALSE	neg_test3644	the women were really meeting the doctor that is not totally sleeping	sleep
+FALSE	neg_test962	the women that were not following the scientist were entirely , totally , really sleeping	follow
+FALSE	neg_test6394	the doctor that is dancing was not totally helping the lawyer	help
+FALSE	neg_test3568	the man was totally , entirely , often meeting the woman that is not dancing	dance
+FALSE	neg_test2926	the students are entirely , totally calling the professor that the lawyers were not following	follow
+FALSE	neg_test2126	the women that were not totally sleeping were totally , entirely recommending the lawyer	sleep
+FALSE	neg_test6427	the lawyer that was sleeping was not entirely , often recommending the students	recommend
+FALSE	neg_test3627	the students were often meeting the men that are not totally sleeping	sleep
+FALSE	neg_test1472	the lawyers that the students are not often , totally meeting are entirely helping the man	meet
+FALSE	neg_test2226	the scientists that were not totally sleeping were often , really , entirely following the student	sleep
+TRUE	neg_test6943	the women are not following the doctors that the man was recommending	recommend
+FALSE	neg_test5783	the men that were really recommending the women were not often , totally following the doctors	follow
+TRUE	neg_test1472	the lawyers that the students are not often , totally meeting are entirely helping the man	help
+FALSE	neg_test7382	the man was not entirely , really helping the professor that is totally , entirely meeting the lawyers	help
+TRUE	neg_test1709	the scientist that is not recommending the men was following the lawyer	follow
+TRUE	neg_test7441	the woman was not really helping the scientist that is following the men	follow
+TRUE	neg_test4396	the professor that the lawyers were entirely following was not dancing	follow
+FALSE	neg_test3919	the man is totally , often helping the doctors that were not often dancing	dance
+FALSE	neg_test1278	the professor that the scientists were not helping was calling the men	help
+FALSE	neg_test3489	the professor is entirely meeting the doctor that was not calling the lawyers	call
+TRUE	neg_test1110	the woman that the professors are not entirely calling is entirely meeting the scientists	meet
+TRUE	neg_test3762	the scientist is helping the student that was not totally dancing	help
+FALSE	neg_test6077	the professors that were entirely , really sleeping were not totally , often , really helping the student	help
+TRUE	neg_test942	the doctor that is not totally , entirely following the professor is entirely sleeping	sleep
+TRUE	neg_test2629	the scientist is helping the professors that the student was not totally , really recommending	help
+FALSE	neg_test365	the scientists that the student is not really recommending are entirely , totally , often sleeping	recommend
+TRUE	neg_test5997	the professors that were really , often helping the man are not totally meeting the scientists	help
+TRUE	neg_test6337	the scientist that is often , totally sleeping is not often , totally meeting the doctors	sleep
+TRUE	neg_test5520	the lawyers that the doctors are entirely helping were not calling the students	help
+TRUE	neg_test1	the men that the professor was not often , totally following are entirely , really , totally dancing	dance
+FALSE	neg_test6855	the men are not totally calling the woman that the scientists were totally meeting	call
+FALSE	neg_test4749	the scientists that were recommending the woman are not often sleeping	sleep
+TRUE	neg_test184	the student that the scientist is not often helping was entirely sleeping	sleep
+FALSE	neg_test752	the man that is not totally , often meeting the student was sleeping	meet
+TRUE	neg_test3505	the professor is often , entirely helping the women that are not totally calling the student	help
+TRUE	neg_test7501	the students were not calling the professor that is entirely following the men	follow
+FALSE	neg_test4057	the professor that the woman was totally recommending was not really dancing	dance
+FALSE	neg_test3491	the men are really following the doctors that are not helping the women	help
+FALSE	neg_test1142	the women that the lawyers were not helping are calling the men	help
+TRUE	neg_test5019	the woman that is meeting the scientist is not entirely sleeping	meet
+FALSE	neg_test5721	the scientists that were entirely , really meeting the student are not often , entirely following the professors	follow
+TRUE	neg_test3919	the man is totally , often helping the doctors that were not often dancing	help
+FALSE	neg_test1106	the professor that the scientist is not entirely , totally helping was often , entirely recommending the doctors	help
+TRUE	neg_test7893	the woman was not meeting the professor that was totally sleeping	sleep
+FALSE	neg_test4466	the professors that the student is really helping were not often sleeping	sleep
+FALSE	neg_test5431	the doctors that the student was often meeting were not entirely calling the women	call
+TRUE	neg_test1410	the professors that the women were not totally recommending were calling the scientist	call
+FALSE	neg_test6178	the scientist that was sleeping was not totally helping the students	help
+FALSE	neg_test2493	the student that is not sleeping was really helping the lawyer	sleep
+TRUE	neg_test7801	the student was not helping the lawyer that is often , totally , entirely sleeping	sleep
+FALSE	neg_test5971	the professor that is really , often , entirely following the scientists was not helping the students	help
+FALSE	neg_test1279	the students that the scientist was not really following are really , totally , entirely recommending the professors	follow
+FALSE	neg_test1919	the lawyers that were not totally , really meeting the women were recommending the professors	meet
+FALSE	neg_test6358	the lawyers that are dancing were not totally , often following the professors	follow
+FALSE	neg_test2196	the man that is not really , entirely sleeping is entirely , often , totally meeting the student	sleep
+FALSE	neg_test5638	the professor that is entirely , totally following the students is not entirely , totally recommending the lawyer	recommend
+FALSE	neg_test4948	the student that was really , totally helping the man was not totally sleeping	sleep
+TRUE	neg_test6495	the scientist that was totally , often dancing is not totally meeting the doctor	dance
+TRUE	neg_test75	the students that the scientists were not entirely meeting were entirely , really dancing	dance
+TRUE	neg_test2059	the men that are not dancing are meeting the lawyers	meet
+FALSE	neg_test5363	the scientists that the doctor was totally helping were not calling the lawyers	call
+FALSE	neg_test1774	the lawyer that was not calling the scientists was often recommending the women	call
+TRUE	neg_test7649	the doctor is not calling the lawyers that are totally dancing	dance
+FALSE	neg_test7365	the man was not recommending the lawyers that are calling the women	recommend
+TRUE	neg_test6427	the lawyer that was sleeping was not entirely , often recommending the students	sleep
+TRUE	neg_test3682	the students are meeting the doctor that is not often dancing	meet
+TRUE	neg_test7514	the scientists are not helping the woman that was really recommending the lawyers	recommend
+FALSE	neg_test5950	the professor that is helping the woman is not entirely , totally meeting the doctors	meet
+TRUE	neg_test4450	the doctors that the men were meeting are not totally , really dancing	meet
+FALSE	neg_test2618	the students are really meeting the scientists that the man was not really following	follow
+FALSE	neg_test6153	the professors that are often sleeping are not really , entirely meeting the scientist	meet
+FALSE	neg_test3641	the lawyers were totally , often helping the scientists that are not totally sleeping	sleep
+FALSE	neg_test5700	the doctor that is following the student is not really recommending the professor	recommend
+FALSE	neg_test6718	the men were not really , totally recommending the lawyer that the doctors are really following	recommend
+FALSE	neg_test2953	the professors are following the scientist that the doctor was not recommending	recommend
+FALSE	neg_test668	the women that were not really helping the scientist are often , entirely , totally sleeping	help
+TRUE	neg_test880	the students that are not recommending the women are really , often sleeping	sleep
+FALSE	neg_test5937	the lawyer that was entirely , totally recommending the scientists was not often calling the professor	call
+TRUE	neg_test589	the lawyer that was not totally , often calling the professor was dancing	dance
+TRUE	neg_test2859	the professors are really recommending the doctors that the students are not totally calling	recommend
+FALSE	neg_test3924	the professors were really helping the student that is not often sleeping	sleep
+FALSE	neg_test7350	the professor is not helping the scientists that were really calling the woman	help
+TRUE	neg_test3233	the woman is really recommending the student that was not totally helping the scientist	recommend
+FALSE	neg_test6074	the women that are totally sleeping were not following the scientist	follow
+FALSE	neg_test6800	the lawyers are not often , really , entirely , totally meeting the student that the professor is entirely , often recommending	meet
+FALSE	neg_test81	the scientists that the professors are not totally meeting were sleeping	meet
+TRUE	neg_test6449	the lawyer that is entirely dancing was not entirely , totally helping the women	dance
+FALSE	neg_test6630	the scientists were not helping the women that the doctor was really , often following	help
+TRUE	neg_test6442	the lawyer that is dancing was not totally , often recommending the students	dance
+FALSE	neg_test218	the woman that the doctor is not really , entirely , often recommending is entirely , totally , often dancing	recommend
+FALSE	neg_test6062	the women that were entirely , totally dancing are not totally , often calling the lawyer	call
+TRUE	neg_test4951	the doctor that was often , totally meeting the students is not really , totally sleeping	meet
+TRUE	neg_test6756	the professor was not entirely , totally meeting the doctors that the women are following	follow
+FALSE	neg_test320	the man that the doctor was not recommending is totally , entirely sleeping	recommend
+TRUE	neg_test6189	the student that was entirely sleeping was not entirely , really , often recommending the professor	sleep
+TRUE	neg_test2432	the woman that is not entirely , totally , really dancing was entirely following the lawyers	follow
+TRUE	neg_test4976	the professor that was entirely , really helping the doctors is not often , entirely dancing	help
+FALSE	neg_test4177	the men that the professor is really helping were not dancing	dance
+FALSE	neg_test5665	the men that are totally , entirely meeting the scientists are not entirely , totally helping the doctor	help
+TRUE	neg_test5354	the man that the woman is totally meeting was not following the scientist	meet
+TRUE	neg_test4782	the scientist that was really , entirely , totally following the women was not dancing	follow
+TRUE	neg_test5937	the lawyer that was entirely , totally recommending the scientists was not often calling the professor	recommend
+FALSE	neg_test14	the men that the women are not often meeting are sleeping	meet
+TRUE	neg_test5783	the men that were really recommending the women were not often , totally following the doctors	recommend
+FALSE	neg_test1816	the women that are not really meeting the doctor were often following the lawyer	meet
+TRUE	neg_test288	the professor that the scientists were not often calling is often , entirely dancing	dance
+FALSE	neg_test4696	the doctor that is following the man is not sleeping	sleep
+TRUE	neg_test7955	the doctors are not recommending the scientist that is really sleeping	sleep
+FALSE	neg_test1249	the man that the doctors were not following was meeting the scientists	follow
+TRUE	neg_test7933	the lawyer is not entirely calling the scientist that is totally , often , entirely sleeping	sleep
+TRUE	neg_test1774	the lawyer that was not calling the scientists was often recommending the women	recommend
+FALSE	neg_test2351	the man that is not dancing is totally , really meeting the doctors	dance
+FALSE	neg_test5019	the woman that is meeting the scientist is not entirely sleeping	sleep
+TRUE	neg_test4205	the scientists that the lawyer is really meeting are not dancing	meet
+FALSE	neg_test2173	the scientists that are not totally sleeping are following the women	sleep
+TRUE	neg_test2846	the professor is entirely , really , totally helping the students that the lawyer is not really , entirely meeting	help
+FALSE	neg_test2919	the professor was totally calling the lawyer that the student was not really , often , totally helping	help
+FALSE	neg_test3292	the women were really , often following the scientist that was not totally recommending the lawyer	recommend
+FALSE	neg_test6449	the lawyer that is entirely dancing was not entirely , totally helping the women	help
+FALSE	neg_test5041	the woman that was really , totally dancing is not really , totally , entirely sleeping	sleep
+TRUE	neg_test7678	the students were not calling the women that are really , totally dancing	dance
+TRUE	neg_test497	the doctors that the lawyer was not helping were sleeping	sleep
+TRUE	neg_test4849	the women that are often following the doctors were not really sleeping	follow
+TRUE	neg_test3817	the lawyers are totally following the students that are not sleeping	follow
+TRUE	neg_test5700	the doctor that is following the student is not really recommending the professor	follow
+TRUE	neg_test320	the man that the doctor was not recommending is totally , entirely sleeping	sleep
+FALSE	neg_test4018	the scientists are entirely , often , totally following the lawyer that is not dancing	dance
+TRUE	neg_test2351	the man that is not dancing is totally , really meeting the doctors	meet
+FALSE	neg_test6773	the woman is not recommending the doctors that the man was totally meeting	recommend
+TRUE	neg_test1895	the men that were not calling the professor were helping the lawyers	help
+TRUE	neg_test5101	the professor that the women are entirely recommending was not entirely meeting the man	recommend
+TRUE	neg_test176	the student that the women were not meeting is entirely sleeping	sleep
+FALSE	neg_test3613	the doctors are helping the scientist that is not entirely sleeping	sleep
+FALSE	neg_test4205	the scientists that the lawyer is really meeting are not dancing	dance
+TRUE	neg_test1817	the doctor that is not often following the woman was meeting the lawyers	meet
+FALSE	neg_test7005	the professor is not often meeting the doctor that the women were really , often helping	meet
+TRUE	neg_test1412	the lawyers that the doctor is not helping were totally calling the student	call
+FALSE	neg_test1490	the professors that the men are not recommending were really following the doctors	recommend
+FALSE	neg_test2439	the professor that was not really , entirely sleeping is totally recommending the lawyer	sleep
+FALSE	neg_test6949	the women were not really calling the lawyers that the scientist is meeting	call
+TRUE	neg_test5335	the doctor that the students were often , really recommending is not totally , often meeting the lawyers	recommend
+FALSE	neg_test6974	the professors were not meeting the students that the woman was entirely , totally recommending	meet
+TRUE	neg_test1294	the men that the scientist is not really , often recommending are meeting the lawyers	meet
+TRUE	neg_test6139	the professors that were sleeping are not really recommending the scientist	sleep
+TRUE	neg_test4204	the women that the professor is calling were not totally , often sleeping	call
+TRUE	neg_test4698	the scientists that were really , often , totally calling the students are not totally sleeping	call
+TRUE	neg_test1624	the women that are not meeting the students are following the professor	follow
+FALSE	neg_test3347	the men are recommending the lawyer that is not entirely calling the student	call
+TRUE	neg_test2147	the doctors that were not really , often dancing were following the lawyer	follow
+FALSE	neg_test2425	the men that are not totally dancing are calling the scientist	dance
+TRUE	neg_test2196	the man that is not really , entirely sleeping is entirely , often , totally meeting the student	meet
+TRUE	neg_test7599	the doctor is not totally following the professors that were totally sleeping	sleep
+FALSE	neg_test4134	the doctor that the students were totally calling was not really , entirely , often sleeping	sleep
+FALSE	neg_test1895	the men that were not calling the professor were helping the lawyers	call
+FALSE	neg_test1911	the lawyers that are not totally recommending the women were meeting the professors	recommend
+TRUE	neg_test5238	the professor that the students were often , really meeting is not totally following the scientist	meet
+TRUE	neg_test6773	the woman is not recommending the doctors that the man was totally meeting	meet
+TRUE	neg_test7034	the lawyers are not entirely recommending the scientist that the professor was really helping	help
+FALSE	neg_test2060	the women that were not entirely sleeping were often , entirely recommending the scientist	sleep
+TRUE	neg_test218	the woman that the doctor is not really , entirely , often recommending is entirely , totally , often dancing	dance
+FALSE	neg_test3337	the professors are totally helping the women that are not entirely meeting the man	meet
+TRUE	neg_test5521	the student that the doctors are often meeting is not really following the professor	meet
+TRUE	neg_test118	the doctors that the students were not following were really , entirely dancing	dance
+FALSE	neg_test26	the man that the lawyer was not following is often dancing	follow
+FALSE	neg_test3682	the students are meeting the doctor that is not often dancing	dance
+FALSE	neg_test5693	the woman that was totally , really , often calling the doctors was not really meeting the student	meet
+TRUE	neg_test3432	the man was often , totally calling the woman that was not totally following the students	call
+TRUE	neg_test3145	the student was helping the scientist that was not totally recommending the man	help
+TRUE	neg_test2183	the scientist that is not entirely , totally , really sleeping was totally calling the students	call
+TRUE	neg_test8048	the scientist is not following the lawyers that were entirely , really , totally sleeping	sleep
+TRUE	neg_test4302	the students that the woman is entirely , really meeting were not really sleeping	meet
+TRUE	neg_test6093	the women that were often , entirely , totally dancing were not totally , often recommending the lawyer	dance
+TRUE	neg_test2039	the professor that was not totally sleeping is meeting the students	meet
+FALSE	neg_test3822	the scientists were really calling the professor that is not often , really , totally , entirely sleeping	sleep
+FALSE	neg_test7694	the professor is not entirely calling the lawyer that is often , really dancing	call
+FALSE	neg_test2271	the scientist that is not often dancing is helping the lawyers	dance
+FALSE	neg_test194	the woman that the scientist is not recommending was totally , really sleeping	recommend
+FALSE	neg_test7265	the professor is not totally , entirely recommending the men that were helping the students	recommend
+TRUE	neg_test2363	the student that was not dancing was following the professor	follow
+FALSE	neg_test1125	the men that the doctors are not entirely recommending are often helping the scientist	recommend
+TRUE	neg_test1279	the students that the scientist was not really following are really , totally , entirely recommending the professors	recommend
+FALSE	neg_test570	the scientist that was not really calling the professors was entirely sleeping	call
+TRUE	neg_test919	the man that was not calling the woman is really , totally dancing	dance
+FALSE	neg_test6639	the lawyers were not really , entirely , totally helping the doctors that the woman was entirely following	help
+FALSE	neg_test89	the doctor that the students were not helping was really sleeping	help
+FALSE	neg_test8010	the man is not entirely , often meeting the woman that is often , totally , really sleeping	meet
+TRUE	neg_test7251	the men are not recommending the doctor that is really helping the professor	help
+FALSE	neg_test5335	the doctor that the students were often , really recommending is not totally , often meeting the lawyers	meet
+TRUE	neg_test5355	the professors that the student was entirely , totally , often following are not entirely helping the man	follow
+TRUE	neg_test6030	the students that are totally helping the scientists were not often following the professor	help
+FALSE	neg_test4604	the men that were helping the doctor are not often , totally , really dancing	dance
+FALSE	neg_test6012	the woman that is helping the lawyers was not entirely , totally following the men	follow
+FALSE	neg_test6083	the man that is entirely , totally dancing was not following the lawyer	follow
+FALSE	neg_test2557	the professor is entirely , often calling the man that the student was not entirely meeting	meet
+FALSE	neg_test3671	the man is totally , entirely following the professor that is not dancing	dance
+TRUE	neg_test4029	the woman that the scientists are entirely , often helping was not sleeping	help
+FALSE	neg_test4204	the women that the professor is calling were not totally , often sleeping	sleep
+TRUE	neg_test2999	the professors were entirely , totally meeting the students that the men are not recommending	meet
+FALSE	neg_test4060	the professors that the man was meeting are not really dancing	dance
+TRUE	neg_test2602	the men are entirely helping the women that the lawyer was not entirely recommending	help
+TRUE	neg_test5704	the lawyers that were totally , entirely , really helping the doctor are not really , often meeting the professors	help
+FALSE	neg_test5467	the professor that the doctor is totally recommending was not totally , often meeting the lawyers	meet
+FALSE	neg_test4566	the students that are meeting the lawyer were not often sleeping	sleep
+FALSE	neg_test2294	the student that was not really , often dancing was helping the woman	dance
+FALSE	neg_test5702	the lawyers that are totally calling the women are not entirely helping the professors	help
+FALSE	neg_test7068	the scientists are not following the woman that was often recommending the student	follow
+FALSE	neg_test497	the doctors that the lawyer was not helping were sleeping	help
+TRUE	neg_test4828	the students that were really calling the women were not totally dancing	call
+FALSE	neg_test387	the scientists that the students are not recommending were sleeping	recommend
+FALSE	neg_test7501	the students were not calling the professor that is entirely following the men	call
+FALSE	neg_test1850	the men that were not totally , really recommending the professor were calling the students	recommend
+FALSE	neg_test4857	the students that were often , really following the woman are not totally , really dancing	dance
+TRUE	neg_test2768	the doctor is following the men that the woman is not totally calling	follow
+TRUE	neg_test3671	the man is totally , entirely following the professor that is not dancing	follow
+FALSE	neg_test5426	the professor that the man was often recommending was not entirely helping the women	help
+FALSE	neg_test2518	the scientist that is not entirely , totally , often dancing is totally , often , entirely calling the professors	dance
+TRUE	neg_test6977	the doctors are not meeting the professor that the men are really , totally following	follow
+FALSE	neg_test6395	the professors that are often , entirely dancing were not really , totally following the man	follow
+FALSE	neg_test4107	the professors that the lawyers are often helping are not sleeping	sleep
+FALSE	neg_test430	the man that the students are not totally helping was totally , really sleeping	help
+FALSE	neg_test7354	the women are not often , totally , entirely helping the lawyers that are entirely meeting the scientist	help
+TRUE	neg_test6421	the lawyers that were really dancing were not calling the professors	dance
+TRUE	neg_test3489	the professor is entirely meeting the doctor that was not calling the lawyers	meet
+TRUE	neg_test5471	the doctors that the students were helping were not entirely meeting the professor	help
+FALSE	neg_test5672	the professor that was meeting the students is not following the doctor	follow
+FALSE	neg_test6139	the professors that were sleeping are not really recommending the scientist	recommend
+FALSE	neg_test4635	the professor that was really , often following the lawyers is not entirely dancing	dance
+FALSE	neg_test143	the men that the student was not meeting are entirely , really sleeping	meet
+TRUE	neg_test5363	the scientists that the doctor was totally helping were not calling the lawyers	help
+FALSE	neg_test5321	the professor that the men are often calling was not recommending the lawyers	recommend
+TRUE	neg_test4869	the students that are totally , entirely , really meeting the woman were not entirely , often sleeping	meet
+FALSE	neg_test1447	the doctors that the man is not totally , often following were totally , entirely helping the women	follow
+TRUE	neg_test7382	the man was not entirely , really helping the professor that is totally , entirely meeting the lawyers	meet
+FALSE	neg_test2672	the doctors were meeting the lawyers that the scientists are not entirely recommending	recommend
+TRUE	neg_test6974	the professors were not meeting the students that the woman was entirely , totally recommending	recommend
+FALSE	neg_test2317	the scientists that are not totally , really dancing were meeting the doctors	dance
+FALSE	neg_test3817	the lawyers are totally following the students that are not sleeping	sleep
+FALSE	neg_test4808	the women that are meeting the doctors are not often , entirely sleeping	sleep
+FALSE	neg_test2147	the doctors that were not really , often dancing were following the lawyer	dance
+TRUE	neg_test5950	the professor that is helping the woman is not entirely , totally meeting the doctors	help
+FALSE	neg_test4029	the woman that the scientists are entirely , often helping was not sleeping	sleep
+TRUE	neg_test2317	the scientists that are not totally , really dancing were meeting the doctors	meet
+TRUE	neg_test6012	the woman that is helping the lawyers was not entirely , totally following the men	help
+TRUE	neg_test4155	the men that the professor is often calling were not often sleeping	call
+FALSE	neg_test5882	the professors that were really , totally calling the women were not entirely helping the scientist	help
+FALSE	neg_test5378	the scientist that the women are really , entirely , totally calling is not recommending the lawyer	recommend
+FALSE	neg_test53	the lawyers that the student was not often recommending are often , entirely sleeping	recommend
+FALSE	neg_test198	the student that the doctor was not totally following was often sleeping	follow
+TRUE	neg_test3803	the women were entirely following the student that is not totally sleeping	follow
+FALSE	neg_test6488	the professors that are totally dancing were not following the lawyer	follow
+FALSE	neg_test4392	the scientists that the students were totally meeting are not dancing	dance
+TRUE	neg_test7452	the men are not often recommending the professor that is really , totally following the woman	follow
+TRUE	neg_test6723	the scientists were not often calling the professor that the students were totally , really following	follow
+FALSE	neg_test801	the professors that were not recommending the woman were entirely dancing	recommend
+TRUE	neg_test1249	the man that the doctors were not following was meeting the scientists	meet
+FALSE	neg_test576	the man that is not totally meeting the professor was dancing	meet
+TRUE	neg_test5378	the scientist that the women are really , entirely , totally calling is not recommending the lawyer	call
+FALSE	neg_test5538	the professor that the women are often , entirely , totally calling is not entirely , totally meeting the lawyers	meet
+FALSE	neg_test864	the students that were not following the doctor are really , entirely dancing	follow
+TRUE	neg_test752	the man that is not totally , often meeting the student was sleeping	sleep
+TRUE	neg_test4696	the doctor that is following the man is not sleeping	follow
+FALSE	neg_test6189	the student that was entirely sleeping was not entirely , really , often recommending the professor	recommend
+TRUE	neg_test2926	the students are entirely , totally calling the professor that the lawyers were not following	call
+FALSE	neg_test880	the students that are not recommending the women are really , often sleeping	recommend
+TRUE	neg_test7068	the scientists are not following the woman that was often recommending the student	recommend
+FALSE	neg_test82	the men that the lawyer is not really , totally following are sleeping	follow
+FALSE	neg_test3158	the lawyers were recommending the man that was not entirely calling the scientists	call
+TRUE	neg_test4375	the lawyers that the scientist is totally following were not dancing	follow
+FALSE	neg_test3762	the scientist is helping the student that was not totally dancing	dance
+FALSE	neg_test2687	the students are following the women that the doctors were not entirely , totally recommending	recommend
+TRUE	neg_test5411	the professors that the lawyers are entirely , often following were not really , entirely helping the doctor	follow
+TRUE	neg_test4222	the women that the professors were totally following are not dancing	follow
+TRUE	neg_test1122	the professors that the student is not totally helping were totally calling the woman	call
+FALSE	neg_test1015	the scientists that were not dancing were entirely sleeping	dance
+FALSE	neg_test4383	the students that the scientists are recommending were not dancing	dance
+FALSE	neg_test7610	the students are not entirely meeting the lawyers that were really , entirely sleeping	meet
+FALSE	neg_test2624	the scientist is recommending the lawyer that the student is not following	follow
+TRUE	neg_test6304	the lawyers that are entirely sleeping are not often helping the men	sleep
+TRUE	neg_test3337	the professors are totally helping the women that are not entirely meeting the man	help
+FALSE	neg_test1071	the students that the lawyer was not really , entirely following are calling the professors	follow
+FALSE	neg_test1300	the students that the professor is not really meeting are entirely , totally following the man	meet
+TRUE	neg_test1421	the scientist that the man is not following is calling the women	call
+TRUE	neg_test706	the men that are not helping the professors were often sleeping	sleep
+TRUE	neg_test6040	the professor that is helping the students is not entirely calling the men	help
+TRUE	neg_test6249	the man that is often sleeping was not recommending the professors	sleep
+TRUE	neg_test1278	the professor that the scientists were not helping was calling the men	call
+FALSE	neg_test516	the professors that were not often , totally , really meeting the men were sleeping	meet
+TRUE	neg_test5554	the professors that the women are really meeting were not calling the man	meet
+TRUE	neg_test5709	the lawyers that were meeting the man were not really following the scientist	meet
+FALSE	neg_test5120	the lawyer that the students were really , totally recommending is not often calling the women	call
+TRUE	neg_test3640	the professor was recommending the lawyer that was not totally , entirely sleeping	recommend
+FALSE	neg_test261	the students that the men were not totally meeting were often dancing	meet
+TRUE	neg_test7075	the women are not really , often recommending the lawyer that was entirely helping the professors	help
+TRUE	neg_test4995	the woman that is really , totally meeting the lawyer was not entirely dancing	meet
+FALSE	neg_test1110	the woman that the professors are not entirely calling is entirely meeting the scientists	call
+FALSE	neg_test8012	the men are not really , entirely , often , totally meeting the student that was entirely , totally dancing	meet
+FALSE	neg_test5963	the scientist that is really , entirely calling the students was not really helping the professor	help
+FALSE	neg_test979	the scientists that are not really meeting the student were dancing	meet
+TRUE	neg_test7203	the scientists are not totally , often , entirely , really recommending the man that is meeting the lawyers	meet
+FALSE	neg_test4512	the men that the women were entirely following were not often , really dancing	dance
+FALSE	neg_test4375	the lawyers that the scientist is totally following were not dancing	dance
+FALSE	neg_test3233	the woman is really recommending the student that was not totally helping the scientist	help
+FALSE	neg_test5990	the students that were totally , really meeting the professor are not entirely , totally following the woman	follow
+FALSE	neg_test4841	the man that is really recommending the student was not sleeping	sleep
+FALSE	neg_test4728	the lawyer that is totally calling the scientists was not dancing	dance
+FALSE	neg_test2365	the professors that are not often sleeping were entirely , totally , really meeting the scientists	sleep
+FALSE	neg_test4282	the professors that the student was really , totally meeting were not totally sleeping	sleep
+FALSE	neg_test5552	the student that the women were entirely , often meeting is not recommending the lawyer	recommend
+TRUE	neg_test3364	the students were helping the scientist that was not often meeting the man	help
+TRUE	neg_test1054	the student that the man was not often following was meeting the women	meet
+TRUE	neg_test6832	the students were not meeting the professor that the woman is helping	help
+FALSE	neg_test4579	the doctor that is meeting the man is not often sleeping	sleep
+FALSE	neg_test7159	the student is not calling the professor that is totally , entirely helping the men	call
+TRUE	neg_test2365	the professors that are not often sleeping were entirely , totally , really meeting the scientists	meet
+TRUE	neg_test198	the student that the doctor was not totally following was often sleeping	sleep
+FALSE	neg_test2192	the students that are not totally , entirely , really sleeping are totally , often helping the professors	sleep
+TRUE	neg_test1204	the students that the women were not entirely , totally recommending were following the professors	follow
+FALSE	neg_test1624	the women that are not meeting the students are following the professor	meet
+FALSE	neg_test274	the professor that the lawyer was not often calling was often , really sleeping	call
+TRUE	neg_test1911	the lawyers that are not totally recommending the women were meeting the professors	meet
+TRUE	neg_test6394	the doctor that is dancing was not totally helping the lawyer	dance
+TRUE	neg_test4383	the students that the scientists are recommending were not dancing	recommend
+TRUE	neg_test6507	the professor that is entirely , really dancing is not totally recommending the students	dance
+FALSE	neg_test4369	the scientists that the lawyers are entirely recommending are not totally , often sleeping	sleep
+TRUE	neg_test7302	the student was not often , entirely following the lawyer that is totally , entirely recommending the professors	recommend
+TRUE	neg_test1367	the students that the lawyers were not really , totally meeting are helping the doctors	help
+TRUE	neg_test430	the man that the students are not totally helping was totally , really sleeping	sleep
+FALSE	neg_test706	the men that are not helping the professors were often sleeping	help
+TRUE	neg_test958	the men that are not entirely recommending the scientists were entirely dancing	dance

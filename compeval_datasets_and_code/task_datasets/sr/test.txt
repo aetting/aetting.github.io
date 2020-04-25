@@ -1,0 +1,1000 @@
+TRUE	xypos7926	the scientist that helped the professor is recommending the students	scientist	recommend
+FALSE	xypos7458	the man that called the professors did not recommend the scientists	scientist	recommend
+FALSE	xypos2740	the doctor was not being helped by the professors	doctor	help
+FALSE	xypos3810	the students did not follow the professors that are helped by the doctor	professor	help
+FALSE	xypos4207	the lawyers that the student followed were helped by the professors	lawyer	follow
+TRUE	xypos7066	the scientists are not recommended by the doctors that were followed by the lawyers	lawyer	follow
+FALSE	xypos7774	the lawyer that followed the professor does not help the man	professor	help
+FALSE	xypos6548	the professor was helped by the lawyers that the men do not call	professor	help
+FALSE	xypos5498	the doctor that danced is being helped by the professors	doctor	help
+FALSE	xypos2774	the doctor is not helping the professor	professor	help
+FALSE	xypos7380	the doctors are not being called by the professor that helps the lawyers	doctor	help
+FALSE	xypos4358	the doctor helps the lawyers that were calling the men	man	call
+TRUE	xypos8017	the scientists are not met by the students that called the men	student	call
+FALSE	xypos7304	the men were not called by the woman that was meeting the doctor	man	call
+FALSE	xypos3677	the doctor called the students that are helped by the professors	student	call
+FALSE	xypos4671	the doctor that is not meeting the man was not being called by the student	man	call
+TRUE	xypos8173	the scientists were recommended by the lawyers that followed the professors	lawyer	follow
+TRUE	xypos6774	the student that the man called met the professors	man	call
+TRUE	xypos4043	the scientists that the doctor helps were not recommended by the men	doctor	help
+TRUE	xypos6522	the student is not being recommended by the scientist that is being called by the men	man	call
+TRUE	xypos3338	the doctors are helping the woman that was not met by the professors	doctor	help
+FALSE	xypos3506	the men are not calling the professors that were being met by the student	student	call
+TRUE	xypos7372	the professor that was not meeting the lawyer helps the woman	professor	help
+TRUE	xypos4296	the men did not recommend the student that was calling the scientists	student	call
+FALSE	xypos6640	the student that the professors recommended called the scientists	scientist	recommend
+FALSE	xypos5129	the men that call the scientists are being recommended by the doctors	scientist	recommend
+TRUE	xypos4595	the men that called the lawyers were being followed by the student	man	call
+FALSE	xypos4363	the man that the students were called by is being recommended by the scientists	student	call
+TRUE	xypos6787	the lawyers that the doctors are helping do not call the man	doctor	help
+TRUE	xypos6356	the doctor is followed by the lawyer that is helped by the man	lawyer	follow
+FALSE	xypos7999	the woman is not being met by the lawyer that follows the doctor	woman	meet
+FALSE	xypos7646	the doctor is not being followed by the lawyers that help the scientist	doctor	help
+TRUE	xypos4622	the doctors are not meeting the man that did not call the student	man	call
+TRUE	xypos4875	the women that are meeting the student are not called by the lawyers	woman	meet
+FALSE	xypos7418	the scientist was not being recommended by the professor that helps the men	scientist	recommend
+FALSE	xypos1567	the professor that was helping the doctor is not dancing	doctor	help
+FALSE	xypos3688	the scientists that the students helped were being called by the men	student	call
+TRUE	xypos8786	the professor that was dancing is not helping the doctors	professor	help
+FALSE	xypos4691	the professors that are not helping the man are not being called by the scientists	man	call
+TRUE	xypos7725	the professor that was helping the men did not call the scientist	professor	help
+TRUE	xypos2462	the student was not being called by the men	man	call
+FALSE	xypos7069	the professors that are being followed by the students were helping the lawyer	lawyer	follow
+FALSE	xypos4885	the doctor that helps the professor is not being recommended by the scientist	professor	help
+TRUE	xypos7689	the scientists that called the lawyer were recommending the student	scientist	recommend
+TRUE	xypos5098	the student that called the lawyers was being followed by the professors	student	call
+FALSE	xypos355	the professors that were helped by the doctor are not sleeping	professor	help
+TRUE	xypos4071	the scientist that the doctors recommended was met by the women	woman	meet
+TRUE	xypos7483	the scientists that help the professors recommended the students	scientist	recommend
+TRUE	xypos3684	the men are not calling the student that was recommended by the professors	man	call
+FALSE	xypos5090	the men that recommended the scientists are being called by the students	scientist	recommend
+FALSE	xypos5073	the doctor did not help the professor that recommends the scientist	professor	help
+FALSE	xypos4718	the professor that follows the men was being called by the student	man	call
+FALSE	xypos6314	the student was being called by the man that the doctors recommended	student	call
+FALSE	xypos3245	the doctors do not follow the lawyers that the woman meets	lawyer	follow
+FALSE	xypos4523	the student that called the man is not being followed by the doctors	man	call
+TRUE	xypos8121	the student that the woman was met by was not calling the professors	student	call
+TRUE	xypos3985	the professors were following the student that the doctors help	doctor	help
+TRUE	xypos4718	the professor that follows the men was being called by the student	student	call
+TRUE	xypos6640	the student that the professors recommended called the scientists	student	call
+FALSE	xypos7421	the student that was helping the women called the man	man	call
+TRUE	xypos3402	the students that the professors followed were helped by the doctors	doctor	help
+FALSE	xypos4461	the scientists do not recommend the men that did not help the professors	professor	help
+FALSE	xypos8006	the scientist that meets the students was not recommending the woman	woman	meet
+TRUE	xypos7346	the men were helped by the professor that is calling the lawyers	professor	help
+TRUE	xypos8114	the woman is met by the men that did not call the lawyers	man	call
+FALSE	xypos3450	the man that was not called by the student was not recommended by the lawyers	man	call
+TRUE	xypos3700	the student was recommending the lawyer that the men called	man	call
+TRUE	xypos3502	the doctor that the man was calling is not being recommended by the student	man	call
+TRUE	xypos6703	the student was not being helped by the doctor that was followed by the professors	doctor	help
+FALSE	xypos4861	the women that were not meeting the doctor are not helped by the lawyers	doctor	help
+TRUE	xypos5987	the professor was helping the doctors that were not sleeping	professor	help
+TRUE	xypos7049	the lawyers were not being helped by the professors that are not being met by the doctors	professor	help
+FALSE	xypos7864	the students are helped by the doctors that called the women	student	call
+FALSE	xypos7823	the professors that were calling the doctors were not helping the woman	doctor	help
+TRUE	xypos7942	the man was called by the lawyers that were not following the doctors	lawyer	follow
+TRUE	xypos5078	the lawyer that followed the student was called by the scientist	lawyer	follow
+TRUE	xypos7912	the scientists that recommended the students were not calling the professor	scientist	recommend
+TRUE	xypos7646	the doctor is not being followed by the lawyers that help the scientist	lawyer	follow
+TRUE	xypos4059	the scientist that is being called by the professors was being helped by the doctor	doctor	help
+TRUE	xypos8128	the lawyer that follows the scientist did not help the doctor	lawyer	follow
+FALSE	xypos3806	the scientist that was being met by the men is not called by the students	man	call
+TRUE	xypos4358	the doctor helps the lawyers that were calling the men	doctor	help
+TRUE	xypos7560	the doctors that meet the lawyer were not helping the professor	doctor	help
+TRUE	xypos5090	the men that recommended the scientists are being called by the students	student	call
+TRUE	xypos1857	the doctor that is not helping the professors slept	doctor	help
+TRUE	xypos7374	the man was not being helped by the professors that called the lawyers	professor	help
+TRUE	xypos6869	the men are not helped by the doctors that the professors were meeting	doctor	help
+TRUE	xypos3803	the lawyer that the doctors help was followed by the scientists	doctor	help
+FALSE	xypos4443	the man that recommended the scientists was being helped by the professor	scientist	recommend
+FALSE	xypos4330	the professor was not helping the doctor that calls the men	doctor	help
+FALSE	xypos6959	the doctor is not called by the students that are helped by the woman	doctor	help
+FALSE	xypos6372	the student that the scientist helps was not calling the professor	professor	help
+TRUE	xypos4439	the doctors were not helping the lawyers that were not calling the students	doctor	help
+TRUE	xypos7663	the doctors that did not help the lawyers do not recommend the professors	doctor	help
+FALSE	xypos3358	the student met the woman that the men were calling	student	call
+FALSE	xypos7992	the professor that is helping the women did not meet the men	woman	meet
+FALSE	xypos524	the professor that the doctors help slept	professor	help
+FALSE	xypos3902	the scientist that the man did not recommend was not helped by the professor	scientist	recommend
+TRUE	xypos3770	the man that is being recommended by the scientist was being called by the professor	scientist	recommend
+TRUE	xypos4985	the men that recommended the professor were being called by the students	student	call
+FALSE	xypos128	the man that is called by the students does not dance	man	call
+TRUE	xypos5935	the professors that danced are being helped by the doctor	doctor	help
+FALSE	xypos2247	the student called the man	man	call
+FALSE	xypos4937	the professors meet the doctor that helps the woman	professor	help
+FALSE	xypos7454	the men are not being helped by the professor that called the woman	man	call
+FALSE	xypos7227	the doctors that were helping the scientists do not meet the professors	professor	help
+FALSE	xypos4585	the man calls the students that helped the women	student	call
+FALSE	xypos7676	the woman that is meeting the scientist recommends the lawyers	scientist	recommend
+FALSE	xypos5029	the professor that is helping the woman is not recommended by the doctors	doctor	help
+FALSE	xypos8078	the men that called the women are not meeting the doctor	woman	meet
+TRUE	xypos7367	the professor was being helped by the women that did not meet the student	woman	meet
+TRUE	xypos3818	the man that the lawyers were calling is met by the woman	woman	meet
+FALSE	xypos4403	the professor that followed the man is being called by the student	man	call
+TRUE	xypos6275	the student that the lawyers followed was meeting the woman	lawyer	follow
+FALSE	xypos5209	the student is not calling the women that are following the men	man	call
+TRUE	xypos7673	the women that meet the students were not calling the men	woman	meet
+TRUE	xypos3780	the man was not calling the scientists that the student followed	man	call
+TRUE	xypos3079	the students were not calling the men	student	call
+TRUE	xypos7641	the man that followed the professor is not calling the students	man	call
+TRUE	xypos8066	the scientist that was calling the men recommended the student	scientist	recommend
+TRUE	xypos6480	the lawyers were not being recommended by the professors that the doctor was helping	doctor	help
+FALSE	xypos3776	the scientists that are being recommended by the women are being called by the student	scientist	recommend
+FALSE	xypos6337	the lawyers were being followed by the scientists that are not met by the woman	lawyer	follow
+TRUE	xypos7541	the doctors that were helping the professors did not follow the man	doctor	help
+TRUE	xypos4867	the doctor helped the women that call the professor	doctor	help
+TRUE	xypos4552	the doctors that helped the lawyer were not being called by the professors	doctor	help
+TRUE	xypos524	the professor that the doctors help slept	doctor	help
+FALSE	xypos4646	the lawyers do not call the scientists that recommend the men	man	call
+FALSE	xypos7406	the professors that are not helping the student were not recommending the doctor	doctor	help
+FALSE	xypos5085	the lawyers that the man was called by were not being met by the women	man	call
+TRUE	xypos4653	the doctor was not helping the woman that is calling the men	doctor	help
+FALSE	xypos3856	the lawyers follow the doctor that the woman helps	doctor	help
+TRUE	xypos7798	the woman is not being met by the doctors that are helping the students	doctor	help
+TRUE	xypos7268	the professors are being helped by the doctors that follow the student	doctor	help
+TRUE	xypos5092	the woman that is helping the professor was called by the students	student	call
+TRUE	xypos7168	the professors were not helped by the student that is followed by the lawyer	lawyer	follow
+FALSE	xypos3250	the lawyers that the student calls were not being helped by the man	man	call
+FALSE	xypos3473	the professor was helping the lawyer that the doctor recommended	doctor	help
+TRUE	xypos6556	the women were not met by the student that was not being helped by the doctors	doctor	help
+FALSE	xypos4170	the scientists that were being recommended by the doctors are called by the student	scientist	recommend
+TRUE	xypos4182	the scientist that was not being followed by the student was not being called by the men	man	call
+FALSE	xypos7079	the students were not being helped by the professor that the women call	student	call
+TRUE	xypos4461	the scientists do not recommend the men that did not help the professors	scientist	recommend
+FALSE	xypos6502	the man is followed by the lawyers that are called by the student	man	call
+TRUE	xypos7583	the men are not recommended by the student that was not calling the doctors	student	call
+TRUE	xypos4033	the lawyer follows the scientists that the men recommend	lawyer	follow
+FALSE	xypos5000	the scientist that met the woman is called by the student	woman	meet
+FALSE	xypos7975	the students were not being called by the men that recommended the scientist	scientist	recommend
+FALSE	xypos5935	the professors that danced are being helped by the doctor	professor	help
+FALSE	xypos6894	the women were not being helped by the professor that is not followed by the doctor	doctor	help
+FALSE	xypos7385	the doctors were not being recommended by the women that were meeting the scientists	scientist	recommend
+TRUE	xypos7918	the man that calls the students is meeting the scientists	man	call
+FALSE	xypos6549	the man that the doctor is meeting does not call the students	student	call
+FALSE	xypos6442	the doctors were not being helped by the professor that was being recommended by the scientist	doctor	help
+TRUE	xypos7732	the scientists that the lawyers are being recommended by are not calling the student	scientist	recommend
+TRUE	xypos3446	the scientists that were followed by the doctor were helped by the professor	professor	help
+TRUE	xypos4349	the man was not helping the student that was calling the professor	student	call
+FALSE	xypos7487	the men are called by the woman that was meeting the scientist	man	call
+TRUE	xypos3455	the lawyer was following the men that were called by the woman	lawyer	follow
+FALSE	xypos6430	the doctors that the professors are helping are not meeting the lawyers	doctor	help
+TRUE	xypos8803	the doctors that were sleeping did not help the professors	doctor	help
+TRUE	xypos6835	the man that is called by the students was recommending the doctor	student	call
+FALSE	xypos7455	the scientist that did not help the doctor recommended the men	doctor	help
+FALSE	xypos6353	the lawyer is not being recommended by the student that was called by the man	student	call
+FALSE	xypos8089	the men were being recommended by the scientist that helped the doctor	doctor	help
+TRUE	xypos3250	the lawyers that the student calls were not being helped by the man	student	call
+TRUE	xypos7588	the student that called the men was not following the professor	student	call
+TRUE	xypos6706	the student was being called by the doctor that the scientists were not recommending	scientist	recommend
+FALSE	xypos7230	the doctors that help the professors were not following the men	professor	help
+FALSE	xypos4597	the men were not calling the professor that is meeting the students	student	call
+TRUE	xypos7134	the students were not being helped by the doctors that the professor calls	doctor	help
+FALSE	xypos4054	the scientists do not recommend the lawyer that the students did not follow	lawyer	follow
+FALSE	xypos7471	the lawyers were called by the professor that is helping the doctor	doctor	help
+TRUE	xypos6038	the man that is dancing is not being called by the student	student	call
+TRUE	xypos4646	the lawyers do not call the scientists that recommend the men	scientist	recommend
+TRUE	xypos4053	the doctor does not help the lawyers that are followed by the scientists	doctor	help
+TRUE	xypos3856	the lawyers follow the doctor that the woman helps	lawyer	follow
+TRUE	xypos7683	the woman was called by the scientists that recommend the students	scientist	recommend
+TRUE	xypos7688	the students were recommended by the scientist that called the professors	scientist	recommend
+TRUE	xypos3702	the student that the woman met is called by the doctors	woman	meet
+TRUE	xypos4596	the student that calls the scientist was being recommended by the professors	student	call
+FALSE	xypos4602	the man that helps the professors was not being recommended by the scientist	professor	help
+FALSE	xypos2826	the students are called by the man	student	call
+FALSE	xypos6866	the students that are followed by the men called the scientist	man	call
+TRUE	xypos5026	the man calls the woman that helps the doctor	man	call
+FALSE	xypos7530	the woman that meets the professors recommends the scientists	scientist	recommend
+FALSE	xypos7601	the lawyer is being recommended by the scientists that were helping the professor	professor	help
+FALSE	xypos7553	the lawyer was not recommended by the professor that helped the doctor	doctor	help
+FALSE	xypos8345	the man that was not sleeping calls the student	student	call
+FALSE	xypos3097	the men were being called by the students	man	call
+TRUE	xypos8006	the scientist that meets the students was not recommending the woman	scientist	recommend
+FALSE	xypos6932	the professor that the men recommended was not helping the scientists	scientist	recommend
+TRUE	xypos6959	the doctor is not called by the students that are helped by the woman	student	call
+TRUE	xypos7657	the man is being called by the student that follows the doctors	student	call
+TRUE	xypos4446	the students are not helping the men that are calling the lawyers	man	call
+FALSE	xypos7586	the professors were being recommended by the scientist that helped the man	professor	help
+FALSE	xypos6950	the man that the women met did not help the doctor	doctor	help
+FALSE	xypos5100	the women are following the professors that were helping the lawyer	lawyer	follow
+TRUE	xypos6232	the student was not being recommended by the scientists that were called by the man	man	call
+FALSE	xypos6473	the doctors that were being helped by the professor do not follow the women	doctor	help
+FALSE	xypos7641	the man that followed the professor is not calling the students	student	call
+TRUE	xypos4345	the man is not helping the student that called the professors	student	call
+FALSE	xypos4345	the man is not helping the student that called the professors	man	call
+TRUE	xypos7216	the students are not followed by the lawyers that the doctor called	lawyer	follow
+TRUE	xypos4207	the lawyers that the student followed were helped by the professors	professor	help
+FALSE	xypos7335	the woman was not being called by the student that did not help the professor	professor	help
+FALSE	xypos7450	the man that the doctors were called by was not meeting the students	student	call
+TRUE	xypos6368	the professor was helped by the doctors that the women are following	doctor	help
+FALSE	xypos7912	the scientists that recommended the students were not calling the professor	student	call
+FALSE	xypos7663	the doctors that did not help the lawyers do not recommend the professors	professor	help
+TRUE	xypos4698	the students that do not call the man are recommended by the doctors	student	call
+FALSE	xypos9193	the men were being called by the students that danced	man	call
+TRUE	xypos3810	the students did not follow the professors that are helped by the doctor	doctor	help
+TRUE	xypos640	the man that is called by the students was dancing	student	call
+TRUE	xypos3016	the doctors are not being helped by the professors	professor	help
+FALSE	xypos4553	the professors are recommending the women that are meeting the scientists	scientist	recommend
+TRUE	xypos7661	the lawyer that followed the man does not help the doctor	lawyer	follow
+TRUE	xypos7200	the student that the men are calling was recommending the woman	man	call
+FALSE	xypos4533	the lawyer followed the doctors that did not call the student	student	call
+TRUE	xypos3473	the professor was helping the lawyer that the doctor recommended	professor	help
+TRUE	xypos128	the man that is called by the students does not dance	student	call
+FALSE	xypos4614	the doctors did not help the lawyers that were meeting the woman	woman	meet
+FALSE	xypos1552	the professor that helped the doctor did not dance	doctor	help
+TRUE	xypos7385	the doctors were not being recommended by the women that were meeting the scientists	woman	meet
+FALSE	xypos3869	the scientist that is being recommended by the woman is called by the students	scientist	recommend
+TRUE	xypos6982	the student was met by the doctor that was helped by the professors	professor	help
+FALSE	xypos4452	the doctors that help the professor were not being recommended by the man	professor	help
+FALSE	xypos7650	the scientists are not helped by the professors that recommended the man	scientist	recommend
+FALSE	xypos7423	the man was being called by the students that were following the lawyers	lawyer	follow
+FALSE	xypos3263	the doctors that the students helped are followed by the lawyers	doctor	help
+FALSE	xypos5221	the lawyers were not calling the professor that helps the men	man	call
+FALSE	xypos7438	the professor is not met by the student that did not call the women	woman	meet
+FALSE	xypos6768	the student is called by the doctor that was being met by the women	student	call
+FALSE	xypos3985	the professors were following the student that the doctors help	professor	help
+FALSE	xypos4673	the lawyer that helped the professor is being recommended by the scientist	professor	help
+FALSE	xypos7956	the lawyer is met by the scientist that recommends the women	woman	meet
+TRUE	xypos7269	the lawyers are not followed by the student that calls the men	student	call
+TRUE	xypos4170	the scientists that were being recommended by the doctors are called by the student	student	call
+FALSE	xypos7122	the scientist that is not met by the student was not recommending the woman	woman	meet
+TRUE	xypos3251	the lawyer that is being met by the women was being followed by the man	woman	meet
+FALSE	xypos7482	the scientist is not recommended by the men that were calling the women	scientist	recommend
+TRUE	xypos7839	the lawyer that does not call the men does not follow the professors	lawyer	follow
+TRUE	xypos4711	the lawyers that recommend the scientists were not met by the woman	woman	meet
+TRUE	xypos1472	the man that calls the student was sleeping	man	call
+FALSE	xypos6274	the lawyers are followed by the professor that the women are meeting	lawyer	follow
+TRUE	xypos8140	the men were not being called by the doctor that helps the scientist	doctor	help
+FALSE	xypos7338	the professor that helped the scientists recommended the man	scientist	recommend
+TRUE	xypos7998	the lawyers were being called by the students that helped the professors	student	call
+TRUE	xypos7553	the lawyer was not recommended by the professor that helped the doctor	professor	help
+TRUE	xypos3677	the doctor called the students that are helped by the professors	professor	help
+FALSE	xypos3526	the professors helped the scientist that the student recommends	scientist	recommend
+TRUE	xypos4756	the professors that met the men are being helped by the doctors	doctor	help
+TRUE	xypos4885	the doctor that helps the professor is not being recommended by the scientist	doctor	help
+FALSE	xypos6835	the man that is called by the students was recommending the doctor	man	call
+TRUE	xypos8069	the students are not followed by the men that were calling the professors	man	call
+FALSE	xypos6038	the man that is dancing is not being called by the student	man	call
+TRUE	xypos7250	the doctor was followed by the professor that was helping the student	professor	help
+FALSE	xypos212	the professors that the doctor is not helping were not dancing	professor	help
+FALSE	xypos8030	the women are not called by the students that do not help the doctors	doctor	help
+TRUE	xypos6765	the men are not helped by the professor that was not called by the scientists	professor	help
+FALSE	xypos7924	the doctors that did not follow the students help the professor	professor	help
+TRUE	xypos7290	the women that call the doctor were not meeting the man	woman	meet
+TRUE	xypos4019	the women help the professor that the scientist recommended	scientist	recommend
+TRUE	xypos7429	the men that recommend the student do not call the scientist	man	call
+FALSE	xypos8987	the professor was being helped by the doctors that are sleeping	professor	help
+TRUE	xypos5062	the lawyer was not calling the women that are meeting the man	woman	meet
+TRUE	xypos3981	the doctor is helping the professor that is being called by the men	doctor	help
+FALSE	xypos4608	the doctor that helped the woman is not being recommended by the professor	professor	help
+TRUE	xypos7864	the students are helped by the doctors that called the women	doctor	help
+TRUE	xypos7491	the men that call the lawyers were not meeting the woman	man	call
+FALSE	xypos4219	the scientist that the doctors recommend is called by the men	scientist	recommend
+TRUE	xypos4500	the lawyers did not meet the professor that helped the women	professor	help
+TRUE	xypos6554	the man was not called by the professor that the lawyers are not following	lawyer	follow
+FALSE	xypos7204	the lawyers were called by the students that the professors do not follow	lawyer	follow
+FALSE	xypos4277	the professors that were helping the lawyers were being met by the doctor	doctor	help
+TRUE	xypos6757	the student is not called by the scientists that the doctor did not help	doctor	help
+TRUE	xypos3776	the scientists that are being recommended by the women are being called by the student	student	call
+TRUE	xypos6223	the professor did not help the doctors that do not dance	professor	help
+TRUE	xypos3617	the doctor was not helping the professor that was called by the scientists	doctor	help
+FALSE	xypos7232	the scientists that recommend the students do not call the man	man	call
+FALSE	xypos6952	the men were followed by the lawyers that the doctor called	man	call
+FALSE	xypos3446	the scientists that were followed by the doctor were helped by the professor	doctor	help
+FALSE	xypos9128	the student that slept was not calling the men	man	call
+TRUE	xypos4553	the professors are recommending the women that are meeting the scientists	woman	meet
+FALSE	xypos4501	the men followed the woman that met the lawyers	lawyer	follow
+TRUE	xypos3806	the scientist that was being met by the men is not called by the students	student	call
+FALSE	xypos6522	the student is not being recommended by the scientist that is being called by the men	student	call
+TRUE	xypos4759	the student is not calling the professors that recommend the scientist	student	call
+TRUE	xypos3394	the man that is helped by the doctor was being called by the professor	doctor	help
+TRUE	xypos6372	the student that the scientist helps was not calling the professor	student	call
+TRUE	xypos8085	the men that recommended the student do not call the doctor	man	call
+TRUE	xypos7992	the professor that is helping the women did not meet the men	professor	help
+FALSE	xypos7954	the lawyer is not called by the women that meet the students	student	call
+TRUE	xypos5833	the doctor that sleeps is helped by the professor	professor	help
+TRUE	xypos7238	the scientist that is recommending the men was meeting the women	scientist	recommend
+FALSE	xypos6654	the lawyer that was helped by the scientist was not following the doctors	doctor	help
+FALSE	xypos4756	the professors that met the men are being helped by the doctors	professor	help
+FALSE	xypos3702	the student that the woman met is called by the doctors	student	call
+FALSE	xypos4112	the professors that the doctors help were met by the woman	professor	help
+FALSE	xypos8128	the lawyer that follows the scientist did not help the doctor	doctor	help
+FALSE	xypos7751	the professors that help the doctors were not recommending the women	doctor	help
+FALSE	xypos5121	the lawyer that called the professors was being helped by the doctors	professor	help
+TRUE	xypos4452	the doctors that help the professor were not being recommended by the man	doctor	help
+FALSE	xypos3016	the doctors are not being helped by the professors	doctor	help
+FALSE	xypos6620	the lawyers were helped by the doctor that is followed by the scientist	lawyer	follow
+TRUE	xypos6892	the man that was met by the student does not call the scientists	man	call
+TRUE	xypos7975	the students were not being called by the men that recommended the scientist	man	call
+FALSE	xypos3796	the scientists that the doctor recommends are being met by the women	scientist	recommend
+TRUE	xypos4614	the doctors did not help the lawyers that were meeting the woman	doctor	help
+TRUE	xypos7578	the professor that follows the man is not helping the lawyer	professor	help
+FALSE	xypos7238	the scientist that is recommending the men was meeting the women	woman	meet
+TRUE	xypos6661	the doctor was not called by the students that the professor is not helping	student	call
+FALSE	xypos7998	the lawyers were being called by the students that helped the professors	professor	help
+FALSE	xypos6204	the professors help the doctors that slept	doctor	help
+TRUE	xypos7701	the woman is being followed by the lawyers that called the student	lawyer	follow
+TRUE	xypos6900	the women are being called by the student that the men helped	student	call
+FALSE	xypos4412	the man is not calling the professor that was helping the doctor	doctor	help
+TRUE	xypos4559	the professor does not help the doctors that were following the scientists	professor	help
+TRUE	xypos7338	the professor that helped the scientists recommended the man	professor	help
+FALSE	xypos3684	the men are not calling the student that was recommended by the professors	student	call
+TRUE	xypos7801	the doctor that helped the woman followed the lawyer	doctor	help
+FALSE	xypos4317	the scientist is not meeting the doctor that helped the woman	woman	meet
+TRUE	xypos6980	the man is being followed by the lawyer that was called by the student	student	call
+TRUE	xypos3916	the students recommend the scientists that the woman was meeting	woman	meet
+TRUE	xypos3895	the woman was not meeting the doctors that the lawyer helps	woman	meet
+FALSE	xypos6354	the professor was being helped by the doctors that the lawyers call	professor	help
+FALSE	xypos7291	the scientist is not recommended by the men that called the student	student	call
+FALSE	xypos3916	the students recommend the scientists that the woman was meeting	scientist	recommend
+TRUE	xypos7495	the lawyers that were not meeting the student are not following the woman	lawyer	follow
+TRUE	xypos6654	the lawyer that was helped by the scientist was not following the doctors	lawyer	follow
+FALSE	xypos7054	the professor is called by the students that are helped by the women	professor	help
+TRUE	xypos3915	the men are calling the students that are met by the doctor	man	call
+TRUE	xypos4383	the men were calling the professor that was helping the students	professor	help
+TRUE	xypos449	the students that are being called by the men do not dance	man	call
+TRUE	xypos7027	the man is called by the student that is met by the professors	student	call
+TRUE	xypos5334	the doctors that danced are not helped by the professor	professor	help
+TRUE	xypos6846	the doctors are being met by the women that the professors were not helping	woman	meet
+TRUE	xypos7335	the woman was not being called by the student that did not help the professor	student	call
+FALSE	xypos8126	the lawyer was not being followed by the woman that meets the scientists	lawyer	follow
+FALSE	xypos6232	the student was not being recommended by the scientists that were called by the man	student	call
+FALSE	xypos7876	the men that met the women were not calling the scientist	woman	meet
+FALSE	xypos7725	the professor that was helping the men did not call the scientist	man	call
+FALSE	xypos7249	the professor that the women are followed by does not help the doctors	doctor	help
+FALSE	xypos7673	the women that meet the students were not calling the men	man	call
+TRUE	xypos7360	the professor was being helped by the lawyer that follows the men	lawyer	follow
+FALSE	xypos4653	the doctor was not helping the woman that is calling the men	man	call
+TRUE	xypos6374	the men are not helped by the doctor that the professors call	doctor	help
+FALSE	xypos3770	the man that is being recommended by the scientist was being called by the professor	man	call
+TRUE	xypos8987	the professor was being helped by the doctors that are sleeping	doctor	help
+FALSE	xypos9083	the student that did not sleep calls the man	man	call
+TRUE	xypos7377	the lawyer is not helped by the doctor that is meeting the woman	doctor	help
+FALSE	xypos1364	the professors that help the doctor were not dancing	doctor	help
+TRUE	xypos4775	the professor recommends the woman that is meeting the scientists	woman	meet
+TRUE	xypos7454	the men are not being helped by the professor that called the woman	professor	help
+FALSE	xypos7919	the professors are called by the men that were recommending the student	student	call
+TRUE	xypos6360	the man that was met by the doctor did not call the student	man	call
+TRUE	xypos6473	the doctors that were being helped by the professor do not follow the women	professor	help
+TRUE	xypos7561	the man that was calling the lawyers does not help the doctor	man	call
+TRUE	xypos9114	the doctors were not being helped by the professor that danced	professor	help
+TRUE	xypos6773	the man is not called by the doctors that were not being met by the women	woman	meet
+TRUE	xypos3688	the scientists that the students helped were being called by the men	man	call
+TRUE	xypos4124	the student that the lawyer called is helped by the doctor	doctor	help
+TRUE	xypos7947	the scientist is not called by the student that recommends the professors	student	call
+TRUE	xypos4523	the student that called the man is not being followed by the doctors	student	call
+FALSE	xypos3685	the lawyer that was followed by the student was not recommended by the scientist	lawyer	follow
+TRUE	xypos7751	the professors that help the doctors were not recommending the women	professor	help
+FALSE	xypos6761	the man that was followed by the women was not calling the student	student	call
+TRUE	xypos7815	the professor was not recommended by the scientist that helps the woman	scientist	recommend
+TRUE	xypos7122	the scientist that is not met by the student was not recommending the woman	scientist	recommend
+FALSE	xypos4053	the doctor does not help the lawyers that are followed by the scientists	lawyer	follow
+FALSE	xypos6275	the student that the lawyers followed was meeting the woman	woman	meet
+FALSE	xypos7681	the man that helps the professor did not call the doctor	professor	help
+TRUE	xypos7230	the doctors that help the professors were not following the men	doctor	help
+FALSE	xypos7432	the man was called by the women that meet the professor	man	call
+TRUE	xypos6495	the professors that the men call were not following the students	man	call
+TRUE	xypos4702	the doctor that is helping the scientist is not being followed by the professor	doctor	help
+FALSE	xypos4711	the lawyers that recommend the scientists were not met by the woman	scientist	recommend
+FALSE	xypos7839	the lawyer that does not call the men does not follow the professors	man	call
+TRUE	xypos7586	the professors were being recommended by the scientist that helped the man	scientist	recommend
+FALSE	xypos7495	the lawyers that were not meeting the student are not following the woman	woman	meet
+TRUE	xypos7198	the scientists that the woman was calling are not recommending the students	scientist	recommend
+FALSE	xypos896	the professor that the doctor helped was not sleeping	professor	help
+FALSE	xypos3700	the student was recommending the lawyer that the men called	student	call
+FALSE	xypos7659	the men that recommend the doctor are calling the student	student	call
+TRUE	xypos2826	the students are called by the man	man	call
+FALSE	xypos8995	the doctors that danced are helping the professors	professor	help
+FALSE	xypos7812	the man that calls the professor did not help the doctors	professor	help
+FALSE	xypos6223	the professor did not help the doctors that do not dance	doctor	help
+FALSE	xypos7645	the man was not followed by the lawyers that were calling the scientists	man	call
+FALSE	xypos6661	the doctor was not called by the students that the professor is not helping	doctor	help
+TRUE	xypos3913	the student was not calling the man that is being followed by the doctor	student	call
+FALSE	xypos7583	the men are not recommended by the student that was not calling the doctors	man	call
+FALSE	xypos7608	the lawyer was being recommended by the scientists that followed the students	lawyer	follow
+FALSE	xypos6006	the professors helped the doctors that danced	doctor	help
+TRUE	xypos1552	the professor that helped the doctor did not dance	professor	help
+FALSE	xypos7029	the doctors were not met by the woman that the professor helps	doctor	help
+FALSE	xypos7275	the professor is not being helped by the doctors that met the student	professor	help
+FALSE	xypos7523	the scientists were helped by the professor that the lawyer is being recommended by	scientist	recommend
+FALSE	xypos3455	the lawyer was following the men that were called by the woman	man	call
+FALSE	xypos3493	the men that were called by the women were being helped by the doctor	man	call
+FALSE	xypos9020	the student was being called by the man that does not dance	student	call
+FALSE	xypos7269	the lawyers are not followed by the student that calls the men	lawyer	follow
+FALSE	xypos6860	the lawyer that the man did not call recommends the students	student	call
+FALSE	xypos4415	the doctor that meets the woman was not helped by the professors	doctor	help
+FALSE	xypos7701	the woman is being followed by the lawyers that called the student	student	call
+FALSE	xypos7522	the student was not recommended by the men that did not call the doctor	student	call
+TRUE	xypos7186	the man that was followed by the lawyer is not helping the doctors	lawyer	follow
+FALSE	xypos4537	the professor is meeting the scientists that recommended the women	woman	meet
+TRUE	xypos7552	the men that were calling the lawyers are recommending the scientists	man	call
+TRUE	xypos6006	the professors helped the doctors that danced	professor	help
+FALSE	xypos4655	the doctors helped the lawyer that called the professors	professor	help
+TRUE	xypos4084	the lawyer that is not met by the woman was not being followed by the scientists	woman	meet
+FALSE	xypos4059	the scientist that is being called by the professors was being helped by the doctor	professor	help
+TRUE	xypos4013	the men that the student called are recommended by the woman	student	call
+FALSE	xypos6958	the woman is not being called by the students that the men helped	man	call
+FALSE	xypos6573	the students are being helped by the professors that the man calls	student	call
+FALSE	xypos4596	the student that calls the scientist was being recommended by the professors	scientist	recommend
+FALSE	xypos6347	the doctor that the women did not meet did not recommend the scientist	scientist	recommend
+TRUE	xypos6659	the doctors that are followed by the woman helped the lawyer	doctor	help
+FALSE	xypos7080	the men are being called by the doctors that the scientist is recommending	man	call
+FALSE	xypos7014	the doctors that are not called by the man do not meet the students	student	call
+FALSE	xypos3462	the scientists are not meeting the women that the men called	woman	meet
+FALSE	xypos6480	the lawyers were not being recommended by the professors that the doctor was helping	professor	help
+FALSE	xypos5078	the lawyer that followed the student was called by the scientist	student	call
+FALSE	xypos6491	the students that the scientists are following are calling the lawyer	lawyer	follow
+TRUE	xypos3613	the scientists that are followed by the lawyers are not recommended by the students	lawyer	follow
+TRUE	xypos5709	the doctor was helping the professor that dances	doctor	help
+FALSE	xypos3292	the lawyer that is not followed by the men is being recommended by the scientist	lawyer	follow
+FALSE	xypos7861	the professor that helps the lawyers calls the student	student	call
+FALSE	xypos3973	the doctor is recommending the scientist that the men did not call	scientist	recommend
+TRUE	xypos461	the students that the man was not calling dance	man	call
+FALSE	xypos3394	the man that is helped by the doctor was being called by the professor	professor	help
+TRUE	xypos4537	the professor is meeting the scientists that recommended the women	scientist	recommend
+TRUE	xypos6337	the lawyers were being followed by the scientists that are not met by the woman	woman	meet
+FALSE	xypos8205	the professors are helped by the students that called the lawyer	professor	help
+FALSE	xypos7106	the doctors that the professors did not help did not call the students	student	call
+FALSE	xypos6374	the men are not helped by the doctor that the professors call	professor	help
+TRUE	xypos7054	the professor is called by the students that are helped by the women	student	call
+FALSE	xypos7588	the student that called the men was not following the professor	man	call
+TRUE	xypos7482	the scientist is not recommended by the men that were calling the women	man	call
+FALSE	xypos3884	the doctors are helping the professors that are not met by the man	professor	help
+TRUE	xypos6201	the professor was not helping the doctor that sleeps	professor	help
+TRUE	xypos7924	the doctors that did not follow the students help the professor	doctor	help
+TRUE	xypos2740	the doctor was not being helped by the professors	professor	help
+TRUE	xypos4508	the student is meeting the doctors that help the professor	doctor	help
+TRUE	xypos6369	the man that the professor recommends calls the scientists	man	call
+TRUE	xypos7522	the student was not recommended by the men that did not call the doctor	man	call
+TRUE	xypos7254	the man is called by the doctors that do not help the scientist	doctor	help
+TRUE	xypos3603	the scientists are helping the professors that are met by the women	woman	meet
+TRUE	xypos8100	the doctor that is helping the woman called the students	doctor	help
+TRUE	xypos7739	the doctors that the woman is being recommended by were helping the scientists	doctor	help
+TRUE	xypos3678	the women that are followed by the doctors were being helped by the professor	professor	help
+FALSE	xypos7726	the lawyers are not helped by the professors that meet the doctor	doctor	help
+FALSE	xypos8853	the professor that danced did not help the doctors	doctor	help
+TRUE	xypos9128	the student that slept was not calling the men	student	call
+TRUE	xypos7650	the scientists are not helped by the professors that recommended the man	professor	help
+TRUE	xypos6502	the man is followed by the lawyers that are called by the student	lawyer	follow
+FALSE	xypos4535	the professors do not help the men that meet the women	woman	meet
+TRUE	xypos3598	the professor that the doctor is helping was recommended by the lawyers	doctor	help
+TRUE	xypos212	the professors that the doctor is not helping were not dancing	doctor	help
+FALSE	xypos4698	the students that do not call the man are recommended by the doctors	man	call
+TRUE	xypos7945	the woman that followed the doctors meets the lawyer	woman	meet
+FALSE	xypos7254	the man is called by the doctors that do not help the scientist	man	call
+TRUE	xypos7763	the professor that helped the scientist did not meet the doctor	professor	help
+FALSE	xypos3377	the scientist that the doctors are helping is not being followed by the professors	professor	help
+FALSE	xypos3233	the doctors that the lawyer helped were met by the woman	doctor	help
+TRUE	xypos5221	the lawyers were not calling the professor that helps the men	professor	help
+FALSE	xypos8096	the doctor was being called by the men that helped the lawyers	doctor	help
+TRUE	xypos896	the professor that the doctor helped was not sleeping	doctor	help
+TRUE	xypos3313	the woman that the doctor was calling is not helped by the professor	professor	help
+FALSE	xypos7491	the men that call the lawyers were not meeting the woman	woman	meet
+FALSE	xypos6946	the scientist is helped by the professor that the doctor is calling	doctor	help
+TRUE	xypos8002	the woman is helped by the professor that does not meet the scientist	professor	help
+TRUE	xypos8853	the professor that danced did not help the doctors	professor	help
+TRUE	xypos6946	the scientist is helped by the professor that the doctor is calling	professor	help
+TRUE	xypos5180	the professors are not helping the doctor that did not meet the woman	professor	help
+FALSE	xypos4439	the doctors were not helping the lawyers that were not calling the students	student	call
+FALSE	xypos4308	the women that help the doctor are not called by the men	doctor	help
+TRUE	xypos3990	the men were not recommending the woman that the student does not call	student	call
+TRUE	xypos4671	the doctor that is not meeting the man was not being called by the student	student	call
+TRUE	xypos6355	the professors that the doctor helped do not follow the man	doctor	help
+FALSE	xypos7377	the lawyer is not helped by the doctor that is meeting the woman	woman	meet
+FALSE	xypos4875	the women that are meeting the student are not called by the lawyers	student	call
+FALSE	xypos4508	the student is meeting the doctors that help the professor	professor	help
+TRUE	xypos213	the student that the men were calling was not sleeping	man	call
+FALSE	xypos6731	the student is not being called by the men that are helped by the professor	student	call
+FALSE	xypos4074	the professors that are called by the men were being helped by the lawyers	professor	help
+TRUE	xypos9003	the students that dance do not call the man	student	call
+FALSE	xypos7085	the student that was helped by the professors was not calling the doctors	doctor	help
+TRUE	xypos355	the professors that were helped by the doctor are not sleeping	doctor	help
+TRUE	xypos3890	the professors that are not recommended by the scientists were not helped by the doctors	doctor	help
+TRUE	xypos3308	the professor does not help the scientists that were being recommended by the students	professor	help
+TRUE	xypos6204	the professors help the doctors that slept	professor	help
+TRUE	xypos3493	the men that were called by the women were being helped by the doctor	doctor	help
+FALSE	xypos4120	the scientists were not helping the doctors that are being met by the women	doctor	help
+TRUE	xypos7029	the doctors were not met by the woman that the professor helps	woman	meet
+FALSE	xypos7560	the doctors that meet the lawyer were not helping the professor	professor	help
+FALSE	xypos5951	the man is not calling the students that were dancing	student	call
+FALSE	xypos3646	the professor did not meet the women that the lawyer followed	woman	meet
+TRUE	xypos7204	the lawyers were called by the students that the professors do not follow	student	call
+TRUE	xypos7861	the professor that helps the lawyers calls the student	professor	help
+TRUE	xypos2472	the man does not call the student	man	call
+FALSE	xypos4349	the man was not helping the student that was calling the professor	man	call
+FALSE	xypos3678	the women that are followed by the doctors were being helped by the professor	doctor	help
+TRUE	xypos3992	the student was calling the man that was followed by the women	student	call
+FALSE	xypos7367	the professor was being helped by the women that did not meet the student	professor	help
+TRUE	xypos6546	the professors that the doctors were helping were meeting the lawyer	doctor	help
+FALSE	xypos5833	the doctor that sleeps is helped by the professor	doctor	help
+TRUE	xypos7946	the doctor that recommends the lawyer helps the professors	doctor	help
+TRUE	xypos4371	the lawyers that are meeting the woman were not being called by the man	man	call
+TRUE	xypos6549	the man that the doctor is meeting does not call the students	man	call
+TRUE	xypos3685	the lawyer that was followed by the student was not recommended by the scientist	scientist	recommend
+FALSE	xypos7457	the professors were not called by the students that helped the women	professor	help
+TRUE	xypos3884	the doctors are helping the professors that are not met by the man	doctor	help
+FALSE	xypos6659	the doctors that are followed by the woman helped the lawyer	lawyer	follow
+FALSE	xypos8173	the scientists were recommended by the lawyers that followed the professors	scientist	recommend
+TRUE	xypos4516	the woman that met the student is being called by the man	woman	meet
+FALSE	xypos4702	the doctor that is helping the scientist is not being followed by the professor	professor	help
+TRUE	xypos8078	the men that called the women are not meeting the doctor	man	call
+TRUE	xypos7291	the scientist is not recommended by the men that called the student	man	call
+TRUE	xypos3796	the scientists that the doctor recommends are being met by the women	woman	meet
+FALSE	xypos7292	the doctor is not followed by the lawyer that did not help the men	doctor	help
+FALSE	xypos3613	the scientists that are followed by the lawyers are not recommended by the students	scientist	recommend
+FALSE	xypos6900	the women are being called by the student that the men helped	man	call
+TRUE	xypos6950	the man that the women met did not help the doctor	woman	meet
+FALSE	xypos7962	the men are met by the woman that is calling the doctors	man	call
+TRUE	xypos7628	the doctor that did not help the men is not following the professors	doctor	help
+TRUE	xypos4927	the professors are not helping the men that followed the doctors	professor	help
+TRUE	xypos4585	the man calls the students that helped the women	man	call
+TRUE	xypos3973	the doctor is recommending the scientist that the men did not call	man	call
+TRUE	xypos7304	the men were not called by the woman that was meeting the doctor	woman	meet
+TRUE	xypos4591	the doctors help the man that is not meeting the women	doctor	help
+TRUE	xypos7956	the lawyer is met by the scientist that recommends the women	scientist	recommend
+FALSE	xypos4446	the students are not helping the men that are calling the lawyers	student	call
+TRUE	xypos7275	the professor is not being helped by the doctors that met the student	doctor	help
+TRUE	xypos4026	the students that the doctor did not meet were called by the man	man	call
+FALSE	xypos3803	the lawyer that the doctors help was followed by the scientists	lawyer	follow
+TRUE	xypos3377	the scientist that the doctors are helping is not being followed by the professors	doctor	help
+TRUE	xypos5129	the men that call the scientists are being recommended by the doctors	man	call
+FALSE	xypos4001	the doctor that the lawyers help was being called by the men	doctor	help
+TRUE	xypos1364	the professors that help the doctor were not dancing	professor	help
+FALSE	xypos3627	the woman is not helping the professors that the men are calling	professor	help
+FALSE	xypos4460	the scientists that recommend the women were met by the man	woman	meet
+FALSE	xypos7313	the lawyer that was following the scientists recommends the men	scientist	recommend
+FALSE	xypos3308	the professor does not help the scientists that were being recommended by the students	scientist	recommend
+TRUE	xypos4363	the man that the students were called by is being recommended by the scientists	scientist	recommend
+FALSE	xypos7561	the man that was calling the lawyers does not help the doctor	doctor	help
+TRUE	xypos4277	the professors that were helping the lawyers were being met by the doctor	professor	help
+FALSE	xypos7578	the professor that follows the man is not helping the lawyer	lawyer	follow
+FALSE	xypos6669	the men that are called by the students are not meeting the lawyer	man	call
+FALSE	xypos3560	the woman that the lawyer was not meeting is not being recommended by the scientist	woman	meet
+FALSE	xypos3079	the students were not calling the men	man	call
+FALSE	xypos9114	the doctors were not being helped by the professor that danced	doctor	help
+TRUE	xypos8126	the lawyer was not being followed by the woman that meets the scientists	woman	meet
+FALSE	xypos3913	the student was not calling the man that is being followed by the doctor	man	call
+TRUE	xypos6430	the doctors that the professors are helping are not meeting the lawyers	professor	help
+TRUE	xypos7455	the scientist that did not help the doctor recommended the men	scientist	recommend
+TRUE	xypos4460	the scientists that recommend the women were met by the man	scientist	recommend
+TRUE	xypos8037	the lawyer is called by the doctor that is helping the professors	doctor	help
+FALSE	xypos7543	the lawyers were not helped by the scientist that recommends the professor	professor	help
+TRUE	xypos4431	the lawyer that called the men is being helped by the doctor	doctor	help
+FALSE	xypos4296	the men did not recommend the student that was calling the scientists	man	call
+FALSE	xypos6355	the professors that the doctor helped do not follow the man	professor	help
+FALSE	xypos6892	the man that was met by the student does not call the scientists	student	call
+TRUE	xypos7249	the professor that the women are followed by does not help the doctors	professor	help
+TRUE	xypos7608	the lawyer was being recommended by the scientists that followed the students	scientist	recommend
+FALSE	xypos8449	the professor is being helped by the doctors that slept	professor	help
+TRUE	xypos6620	the lawyers were helped by the doctor that is followed by the scientist	doctor	help
+TRUE	xypos5131	the student helps the lawyer that does not follow the professor	lawyer	follow
+TRUE	xypos6314	the student was being called by the man that the doctors recommended	man	call
+TRUE	xypos3627	the woman is not helping the professors that the men are calling	man	call
+FALSE	xypos7918	the man that calls the students is meeting the scientists	student	call
+TRUE	xypos8895	the doctor that dances was not helping the professors	doctor	help
+TRUE	xypos669	the professor that the doctors did not help is dancing	doctor	help
+FALSE	xypos8002	the woman is helped by the professor that does not meet the scientist	woman	meet
+TRUE	xypos8067	the professors are recommended by the scientists that called the student	scientist	recommend
+FALSE	xypos4840	the doctors that followed the lawyers were being helped by the professor	doctor	help
+TRUE	xypos297	the professor that is not helped by the doctor does not dance	doctor	help
+TRUE	xypos6866	the students that are followed by the men called the scientist	student	call
+TRUE	xypos6609	the scientists were not recommended by the students that are not helped by the doctor	doctor	help
+FALSE	xypos3598	the professor that the doctor is helping was recommended by the lawyers	professor	help
+TRUE	xypos6353	the lawyer is not being recommended by the student that was called by the man	man	call
+TRUE	xypos3462	the scientists are not meeting the women that the men called	man	call
+TRUE	xypos6269	the women that are called by the scientists were meeting the student	woman	meet
+TRUE	xypos6958	the woman is not being called by the students that the men helped	student	call
+FALSE	xypos4026	the students that the doctor did not meet were called by the man	student	call
+TRUE	xypos8215	the scientist that recommends the lawyer followed the women	scientist	recommend
+FALSE	xypos7546	the lawyer is not being recommended by the doctor that helped the scientists	scientist	recommend
+FALSE	xypos7148	the doctors that were recommended by the students did not help the professors	professor	help
+FALSE	xypos669	the professor that the doctors did not help is dancing	professor	help
+TRUE	xypos3785	the man that is called by the women is being helped by the professors	professor	help
+FALSE	xypos7660	the man that does not help the students calls the doctor	student	call
+FALSE	xypos5987	the professor was helping the doctors that were not sleeping	doctor	help
+FALSE	xypos8100	the doctor that is helping the woman called the students	student	call
+FALSE	xypos7926	the scientist that helped the professor is recommending the students	professor	help
+FALSE	xypos4071	the scientist that the doctors recommended was met by the women	scientist	recommend
+FALSE	xypos7732	the scientists that the lawyers are being recommended by are not calling the student	student	call
+TRUE	xypos7438	the professor is not met by the student that did not call the women	student	call
+TRUE	xypos7954	the lawyer is not called by the women that meet the students	woman	meet
+TRUE	xypos7909	the scientist that does not recommend the doctor does not help the professors	scientist	recommend
+TRUE	xypos6491	the students that the scientists are following are calling the lawyer	student	call
+FALSE	xypos7854	the women that are not following the men do not meet the lawyer	lawyer	follow
+FALSE	xypos7511	the women that were not meeting the student did not call the man	student	call
+FALSE	xypos6252	the doctor that the scientist was recommending did not call the man	man	call
+FALSE	xypos8058	the woman that was not meeting the students did not help the doctors	doctor	help
+TRUE	xypos7457	the professors were not called by the students that helped the women	student	call
+FALSE	xypos8114	the woman is met by the men that did not call the lawyers	woman	meet
+FALSE	xypos4985	the men that recommended the professor were being called by the students	man	call
+FALSE	xypos6536	the men that the professor does not help did not recommend the doctor	doctor	help
+TRUE	xypos7161	the students that are recommended by the doctors are not calling the scientist	student	call
+TRUE	xypos7681	the man that helps the professor did not call the doctor	man	call
+TRUE	xypos6573	the students are being helped by the professors that the man calls	man	call
+TRUE	xypos7991	the women that the professor was being recommended by are meeting the scientists	woman	meet
+TRUE	xypos5114	the scientists that were helping the professors are met by the women	woman	meet
+TRUE	xypos3407	the professor that is recommended by the students was helped by the doctor	doctor	help
+TRUE	xypos4673	the lawyer that helped the professor is being recommended by the scientist	scientist	recommend
+FALSE	xypos6427	the scientists that were not helped by the doctor were not recommending the professor	professor	help
+TRUE	xypos6286	the doctor that is not met by the scientists helped the woman	doctor	help
+FALSE	xypos7709	the scientist is not helped by the lawyers that follow the professors	professor	help
+TRUE	xypos7774	the lawyer that followed the professor does not help the man	lawyer	follow
+TRUE	xypos7307	the woman that the scientists are not followed by did not meet the lawyer	woman	meet
+TRUE	xypos8023	the professors that did not help the doctors were meeting the lawyers	professor	help
+FALSE	xypos6716	the professor is not met by the student that the men called	student	call
+TRUE	xypos7823	the professors that were calling the doctors were not helping the woman	professor	help
+TRUE	xypos8995	the doctors that danced are helping the professors	doctor	help
+FALSE	xypos6286	the doctor that is not met by the scientists helped the woman	woman	meet
+TRUE	xypos7058	the students that the woman was recommending called the scientist	student	call
+FALSE	xypos6787	the lawyers that the doctors are helping do not call the man	man	call
+TRUE	xypos3549	the scientists that the man did not call were recommended by the women	man	call
+TRUE	xypos6351	the scientists that the doctor met recommend the woman	scientist	recommend
+TRUE	xypos5073	the doctor did not help the professor that recommends the scientist	doctor	help
+TRUE	xypos7812	the man that calls the professor did not help the doctors	man	call
+FALSE	xypos7772	the student that called the doctor was helping the lawyers	doctor	help
+TRUE	xypos7659	the men that recommend the doctor are calling the student	man	call
+TRUE	xypos7999	the woman is not being met by the lawyer that follows the doctor	lawyer	follow
+TRUE	xypos5100	the women are following the professors that were helping the lawyer	professor	help
+FALSE	xypos6727	the doctor that was being helped by the professors recommended the women	doctor	help
+TRUE	xypos6727	the doctor that was being helped by the professors recommended the women	professor	help
+FALSE	xypos4488	the professor was not following the scientists that are recommending the lawyer	lawyer	follow
+FALSE	xypos7146	the scientist that is helped by the doctors does not call the professors	professor	help
+FALSE	xypos7745	the professors that met the woman helped the scientists	woman	meet
+FALSE	xypos3647	the men are not calling the woman that is being met by the lawyers	woman	meet
+FALSE	xypos7628	the doctor that did not help the men is not following the professors	professor	help
+TRUE	xypos3869	the scientist that is being recommended by the woman is called by the students	student	call
+FALSE	xypos8121	the student that the woman was met by was not calling the professors	woman	meet
+TRUE	xypos3543	the doctor did not recommend the scientists that the student calls	student	call
+TRUE	xypos7406	the professors that are not helping the student were not recommending the doctor	professor	help
+FALSE	xypos213	the student that the men were calling was not sleeping	student	call
+FALSE	xypos3748	the man that the lawyers were helping was being called by the students	man	call
+TRUE	xypos1479	the student that is not calling the men is not sleeping	student	call
+TRUE	xypos8096	the doctor was being called by the men that helped the lawyers	man	call
+TRUE	xypos7639	the professor is not helped by the doctors that recommend the students	doctor	help
+FALSE	xypos6765	the men are not helped by the professor that was not called by the scientists	man	call
+FALSE	xypos7483	the scientists that help the professors recommended the students	professor	help
+FALSE	xypos7200	the student that the men are calling was recommending the woman	student	call
+FALSE	xypos3402	the students that the professors followed were helped by the doctors	professor	help
+FALSE	xypos6827	the professors are not called by the student that is helped by the lawyer	professor	help
+TRUE	xypos7745	the professors that met the woman helped the scientists	professor	help
+TRUE	xypos3882	the scientists that the doctors are not helping were being met by the professors	doctor	help
+TRUE	xypos7014	the doctors that are not called by the man do not meet the students	man	call
+TRUE	xypos7767	the professor is recommended by the men that call the scientist	man	call
+TRUE	xypos4415	the doctor that meets the woman was not helped by the professors	professor	help
+TRUE	xypos7068	the lawyer is not followed by the scientist that the students call	student	call
+FALSE	xypos7808	the students were not being called by the lawyers that the men are followed by	student	call
+FALSE	xypos4404	the doctor that helps the woman is not followed by the professor	professor	help
+TRUE	xypos3097	the men were being called by the students	student	call
+TRUE	xypos4412	the man is not calling the professor that was helping the doctor	professor	help
+FALSE	xypos7161	the students that are recommended by the doctors are not calling the scientist	scientist	recommend
+FALSE	xypos6263	the student that was met by the men does not call the scientists	man	call
+TRUE	xypos3450	the man that was not called by the student was not recommended by the lawyers	student	call
+FALSE	xypos8085	the men that recommended the student do not call the doctor	student	call
+TRUE	xypos7876	the men that met the women were not calling the scientist	man	call
+FALSE	xypos7250	the doctor was followed by the professor that was helping the student	doctor	help
+FALSE	xypos4552	the doctors that helped the lawyer were not being called by the professors	professor	help
+TRUE	xypos6442	the doctors were not being helped by the professor that was being recommended by the scientist	scientist	recommend
+FALSE	xypos3606	the professor that was being called by the lawyers was not being helped by the doctor	professor	help
+TRUE	xypos7772	the student that called the doctor was helping the lawyers	student	call
+TRUE	xypos2774	the doctor is not helping the professor	doctor	help
+TRUE	xypos4691	the professors that are not helping the man are not being called by the scientists	professor	help
+FALSE	xypos331	the doctors that were helped by the professors are sleeping	doctor	help
+TRUE	xypos6827	the professors are not called by the student that is helped by the lawyer	student	call
+FALSE	xypos5026	the man calls the woman that helps the doctor	doctor	help
+TRUE	xypos7685	the professor that helps the student called the scientist	professor	help
+TRUE	xypos7469	the scientists that recommended the lawyers are following the professors	scientist	recommend
+TRUE	xypos4914	the doctor that met the lawyer was not helped by the professors	professor	help
+TRUE	xypos8013	the scientist that is not meeting the professor was recommending the woman	scientist	recommend
+FALSE	xypos6201	the professor was not helping the doctor that sleeps	doctor	help
+TRUE	xypos7421	the student that was helping the women called the man	student	call
+TRUE	xypos7227	the doctors that were helping the scientists do not meet the professors	doctor	help
+FALSE	xypos6773	the man is not called by the doctors that were not being met by the women	man	call
+FALSE	xypos5098	the student that called the lawyers was being followed by the professors	lawyer	follow
+TRUE	xypos3373	the doctors that the students call are not being followed by the men	student	call
+FALSE	xypos4487	the professors help the scientist that met the doctors	doctor	help
+TRUE	xypos4120	the scientists were not helping the doctors that are being met by the women	woman	meet
+FALSE	xypos3549	the scientists that the man did not call were recommended by the women	scientist	recommend
+TRUE	xypos7085	the student that was helped by the professors was not calling the doctors	student	call
+TRUE	xypos4001	the doctor that the lawyers help was being called by the men	man	call
+TRUE	xypos7299	the man was not being called by the doctor that helped the lawyers	doctor	help
+FALSE	xypos8136	the doctor is being helped by the professors that recommend the woman	doctor	help
+TRUE	xypos6894	the women were not being helped by the professor that is not followed by the doctor	professor	help
+TRUE	xypos7423	the man was being called by the students that were following the lawyers	student	call
+FALSE	xypos6869	the men are not helped by the doctors that the professors were meeting	professor	help
+FALSE	xypos7000	the woman that the scientist helped was meeting the professor	professor	help
+FALSE	xypos8800	the doctors that are dancing did not help the professor	professor	help
+TRUE	xypos6252	the doctor that the scientist was recommending did not call the man	scientist	recommend
+TRUE	xypos4219	the scientist that the doctors recommend is called by the men	man	call
+FALSE	xypos3373	the doctors that the students call are not being followed by the men	man	call
+TRUE	xypos7808	the students were not being called by the lawyers that the men are followed by	lawyer	follow
+FALSE	xypos1733	the man that calls the students dances	student	call
+TRUE	xypos6716	the professor is not met by the student that the men called	man	call
+FALSE	xypos1857	the doctor that is not helping the professors slept	professor	help
+TRUE	xypos4840	the doctors that followed the lawyers were being helped by the professor	professor	help
+FALSE	xypos4500	the lawyers did not meet the professor that helped the women	woman	meet
+TRUE	xypos3263	the doctors that the students helped are followed by the lawyers	lawyer	follow
+FALSE	xypos6609	the scientists were not recommended by the students that are not helped by the doctor	scientist	recommend
+FALSE	xypos6475	the professor that the scientists recommend did not call the men	man	call
+FALSE	xypos7767	the professor is recommended by the men that call the scientist	scientist	recommend
+TRUE	xypos7418	the scientist was not being recommended by the professor that helps the men	professor	help
+TRUE	xypos7487	the men are called by the woman that was meeting the scientist	woman	meet
+TRUE	xypos5029	the professor that is helping the woman is not recommended by the doctors	professor	help
+FALSE	xypos8803	the doctors that were sleeping did not help the professors	professor	help
+TRUE	xypos9020	the student was being called by the man that does not dance	man	call
+FALSE	xypos7186	the man that was followed by the lawyer is not helping the doctors	doctor	help
+FALSE	xypos7661	the lawyer that followed the man does not help the doctor	doctor	help
+FALSE	xypos7532	the men that met the students are calling the doctors	student	call
+TRUE	xypos8136	the doctor is being helped by the professors that recommend the woman	professor	help
+FALSE	xypos3603	the scientists are helping the professors that are met by the women	professor	help
+FALSE	xypos7268	the professors are being helped by the doctors that follow the student	professor	help
+TRUE	xypos4488	the professor was not following the scientists that are recommending the lawyer	scientist	recommend
+FALSE	xypos8140	the men were not being called by the doctor that helps the scientist	man	call
+FALSE	xypos7978	the woman that did not meet the men is calling the lawyers	man	call
+FALSE	xypos3657	the lawyers were not following the doctor that is helped by the scientist	doctor	help
+FALSE	xypos3882	the scientists that the doctors are not helping were being met by the professors	professor	help
+TRUE	xypos8089	the men were being recommended by the scientist that helped the doctor	scientist	recommend
+TRUE	xypos6731	the student is not being called by the men that are helped by the professor	man	call
+FALSE	xypos4595	the men that called the lawyers were being followed by the student	lawyer	follow
+TRUE	xypos3676	the doctors did not help the man that was called by the scientists	doctor	help
+FALSE	xypos6269	the women that are called by the scientists were meeting the student	student	call
+TRUE	xypos8205	the professors are helped by the students that called the lawyer	student	call
+TRUE	xypos7546	the lawyer is not being recommended by the doctor that helped the scientists	doctor	help
+TRUE	xypos7232	the scientists that recommend the students do not call the man	scientist	recommend
+TRUE	xypos6548	the professor was helped by the lawyers that the men do not call	man	call
+TRUE	xypos6475	the professor that the scientists recommend did not call the men	scientist	recommend
+TRUE	xypos7530	the woman that meets the professors recommends the scientists	woman	meet
+TRUE	xypos4535	the professors do not help the men that meet the women	professor	help
+FALSE	xypos8013	the scientist that is not meeting the professor was recommending the woman	woman	meet
+FALSE	xypos7290	the women that call the doctor were not meeting the man	man	call
+TRUE	xypos7450	the man that the doctors were called by was not meeting the students	man	call
+FALSE	xypos7942	the man was called by the lawyers that were not following the doctors	man	call
+FALSE	xypos8023	the professors that did not help the doctors were meeting the lawyers	doctor	help
+TRUE	xypos7252	the men that were calling the students were not meeting the scientist	man	call
+FALSE	xypos8037	the lawyer is called by the doctor that is helping the professors	professor	help
+TRUE	xypos6860	the lawyer that the man did not call recommends the students	man	call
+TRUE	xypos4435	the men were not helping the student that calls the scientists	student	call
+TRUE	xypos4501	the men followed the woman that met the lawyers	woman	meet
+TRUE	xypos4934	the scientists that are calling the professors were helped by the doctors	doctor	help
+TRUE	xypos7709	the scientist is not helped by the lawyers that follow the professors	lawyer	follow
+FALSE	xypos3327	the professors that the men did not call are not followed by the student	student	call
+FALSE	xypos4591	the doctors help the man that is not meeting the women	woman	meet
+FALSE	xypos8215	the scientist that recommends the lawyer followed the women	lawyer	follow
+FALSE	xypos6369	the man that the professor recommends calls the scientists	scientist	recommend
+TRUE	xypos6952	the men were followed by the lawyers that the doctor called	lawyer	follow
+FALSE	xypos1472	the man that calls the student was sleeping	student	call
+TRUE	xypos3646	the professor did not meet the women that the lawyer followed	lawyer	follow
+FALSE	xypos3890	the professors that are not recommended by the scientists were not helped by the doctors	professor	help
+TRUE	xypos7458	the man that called the professors did not recommend the scientists	man	call
+TRUE	xypos6669	the men that are called by the students are not meeting the lawyer	student	call
+TRUE	xypos3191	the professor helps the doctor	professor	help
+FALSE	xypos2472	the man does not call the student	student	call
+FALSE	xypos3676	the doctors did not help the man that was called by the scientists	man	call
+TRUE	xypos4602	the man that helps the professors was not being recommended by the scientist	scientist	recommend
+TRUE	xypos6761	the man that was followed by the women was not calling the student	man	call
+TRUE	xypos8030	the women are not called by the students that do not help the doctors	student	call
+FALSE	xypos4084	the lawyer that is not met by the woman was not being followed by the scientists	lawyer	follow
+TRUE	xypos7726	the lawyers are not helped by the professors that meet the doctor	professor	help
+FALSE	xypos4622	the doctors are not meeting the man that did not call the student	student	call
+FALSE	xypos7119	the men that were helped by the doctors follow the lawyers	lawyer	follow
+TRUE	xypos8800	the doctors that are dancing did not help the professor	doctor	help
+TRUE	xypos8449	the professor is being helped by the doctors that slept	doctor	help
+TRUE	xypos3580	the students that were being met by the woman were being called by the lawyers	woman	meet
+TRUE	xypos7962	the men are met by the woman that is calling the doctors	woman	meet
+FALSE	xypos7243	the professor that the lawyers are helped by is following the man	lawyer	follow
+TRUE	xypos9083	the student that did not sleep calls the man	student	call
+FALSE	xypos4431	the lawyer that called the men is being helped by the doctor	man	call
+TRUE	xypos5121	the lawyer that called the professors was being helped by the doctors	doctor	help
+FALSE	xypos5180	the professors are not helping the doctor that did not meet the woman	doctor	help
+TRUE	xypos3358	the student met the woman that the men were calling	man	call
+TRUE	xypos4487	the professors help the scientist that met the doctors	professor	help
+TRUE	xypos6354	the professor was being helped by the doctors that the lawyers call	doctor	help
+FALSE	xypos4516	the woman that met the student is being called by the man	student	call
+TRUE	xypos7243	the professor that the lawyers are helped by is following the man	professor	help
+FALSE	xypos9003	the students that dance do not call the man	man	call
+FALSE	xypos6379	the student was not being followed by the lawyer that the woman called	student	call
+TRUE	xypos6263	the student that was met by the men does not call the scientists	student	call
+TRUE	xypos3728	the lawyers were following the scientists that the students recommended	lawyer	follow
+TRUE	xypos4076	the woman does not follow the students that the man was calling	man	call
+TRUE	xypos4054	the scientists do not recommend the lawyer that the students did not follow	scientist	recommend
+TRUE	xypos3647	the men are not calling the woman that is being met by the lawyers	man	call
+FALSE	xypos3785	the man that is called by the women is being helped by the professors	man	call
+TRUE	xypos4533	the lawyer followed the doctors that did not call the student	lawyer	follow
+FALSE	xypos7689	the scientists that called the lawyer were recommending the student	student	call
+FALSE	xypos7657	the man is being called by the student that follows the doctors	man	call
+FALSE	xypos7198	the scientists that the woman was calling are not recommending the students	student	call
+FALSE	xypos6239	the doctor that is helped by the professor is not recommending the scientists	doctor	help
+TRUE	xypos7079	the students were not being helped by the professor that the women call	professor	help
+TRUE	xypos3902	the scientist that the man did not recommend was not helped by the professor	professor	help
+FALSE	xypos7346	the men were helped by the professor that is calling the lawyers	man	call
+TRUE	xypos3606	the professor that was being called by the lawyers was not being helped by the doctor	doctor	help
+TRUE	xypos7511	the women that were not meeting the student did not call the man	woman	meet
+FALSE	xypos6982	the student was met by the doctor that was helped by the professors	doctor	help
+FALSE	xypos3728	the lawyers were following the scientists that the students recommended	scientist	recommend
+FALSE	xypos297	the professor that is not helped by the doctor does not dance	professor	help
+FALSE	xypos7639	the professor is not helped by the doctors that recommend the students	professor	help
+FALSE	xypos6774	the student that the man called met the professors	student	call
+FALSE	xypos6757	the student is not called by the scientists that the doctor did not help	student	call
+FALSE	xypos4435	the men were not helping the student that calls the scientists	man	call
+TRUE	xypos4861	the women that were not meeting the doctor are not helped by the lawyers	woman	meet
+FALSE	xypos4013	the men that the student called are recommended by the woman	man	call
+FALSE	xypos3502	the doctor that the man was calling is not being recommended by the student	student	call
+FALSE	xypos7945	the woman that followed the doctors meets the lawyer	lawyer	follow
+FALSE	xypos7739	the doctors that the woman is being recommended by were helping the scientists	scientist	recommend
+FALSE	xypos6360	the man that was met by the doctor did not call the student	student	call
+TRUE	xypos7543	the lawyers were not helped by the scientist that recommends the professor	scientist	recommend
+TRUE	xypos3233	the doctors that the lawyer helped were met by the woman	woman	meet
+TRUE	xypos8345	the man that was not sleeping calls the student	man	call
+TRUE	xypos9193	the men were being called by the students that danced	student	call
+TRUE	xypos7978	the woman that did not meet the men is calling the lawyers	woman	meet
+FALSE	xypos4934	the scientists that are calling the professors were helped by the doctors	professor	help
+FALSE	xypos3992	the student was calling the man that was followed by the women	man	call
+FALSE	xypos6554	the man was not called by the professor that the lawyers are not following	man	call
+TRUE	xypos331	the doctors that were helped by the professors are sleeping	professor	help
+FALSE	xypos1479	the student that is not calling the men is not sleeping	man	call
+TRUE	xypos4655	the doctors helped the lawyer that called the professors	doctor	help
+TRUE	xypos7146	the scientist that is helped by the doctors does not call the professors	doctor	help
+FALSE	xypos4043	the scientists that the doctor helps were not recommended by the men	scientist	recommend
+FALSE	xypos7469	the scientists that recommended the lawyers are following the professors	lawyer	follow
+FALSE	xypos8069	the students are not followed by the men that were calling the professors	student	call
+FALSE	xypos7066	the scientists are not recommended by the doctors that were followed by the lawyers	scientist	recommend
+FALSE	xypos4759	the student is not calling the professors that recommend the scientist	scientist	recommend
+FALSE	xypos2459	the student does not call the men	man	call
+FALSE	xypos6580	the professors that were followed by the lawyers called the students	student	call
+FALSE	xypos7027	the man is called by the student that is met by the professors	man	call
+TRUE	xypos5498	the doctor that danced is being helped by the professors	professor	help
+TRUE	xypos3748	the man that the lawyers were helping was being called by the students	student	call
+TRUE	xypos8164	the man is not called by the student that is not recommending the lawyers	student	call
+FALSE	xypos7685	the professor that helps the student called the scientist	student	call
+FALSE	xypos7991	the women that the professor was being recommended by are meeting the scientists	scientist	recommend
+TRUE	xypos6580	the professors that were followed by the lawyers called the students	lawyer	follow
+TRUE	xypos4906	the man was calling the student that recommends the lawyers	man	call
+FALSE	xypos3580	the students that were being met by the woman were being called by the lawyers	student	call
+FALSE	xypos7429	the men that recommend the student do not call the scientist	scientist	recommend
+FALSE	xypos4019	the women help the professor that the scientist recommended	professor	help
+FALSE	xypos5334	the doctors that danced are not helped by the professor	doctor	help
+TRUE	xypos506	the man that the student called sleeps	student	call
+TRUE	xypos6932	the professor that the men recommended was not helping the scientists	professor	help
+TRUE	xypos5085	the lawyers that the man was called by were not being met by the women	woman	meet
+FALSE	xypos2462	the student was not being called by the men	student	call
+TRUE	xypos4443	the man that recommended the scientists was being helped by the professor	professor	help
+FALSE	xypos6356	the doctor is followed by the lawyer that is helped by the man	doctor	help
+TRUE	xypos6427	the scientists that were not helped by the doctor were not recommending the professor	doctor	help
+FALSE	xypos4033	the lawyer follows the scientists that the men recommend	scientist	recommend
+FALSE	xypos3628	the man that was called by the students is helped by the woman	man	call
+TRUE	xypos4330	the professor was not helping the doctor that calls the men	professor	help
+TRUE	xypos7854	the women that are not following the men do not meet the lawyer	woman	meet
+TRUE	xypos3292	the lawyer that is not followed by the men is being recommended by the scientist	scientist	recommend
+FALSE	xypos7946	the doctor that recommends the lawyer helps the professors	professor	help
+FALSE	xypos6495	the professors that the men call were not following the students	student	call
+FALSE	xypos4927	the professors are not helping the men that followed the doctors	doctor	help
+FALSE	xypos4383	the men were calling the professor that was helping the students	student	call
+FALSE	xypos7801	the doctor that helped the woman followed the lawyer	lawyer	follow
+TRUE	xypos4403	the professor that followed the man is being called by the student	student	call
+FALSE	xypos7688	the students were recommended by the scientist that called the professors	student	call
+TRUE	xypos3628	the man that was called by the students is helped by the woman	student	call
+FALSE	xypos7917	the scientists are not helped by the women that meet the professors	professor	help
+FALSE	xypos461	the students that the man was not calling dance	student	call
+FALSE	xypos7307	the woman that the scientists are not followed by did not meet the lawyer	lawyer	follow
+FALSE	xypos4775	the professor recommends the woman that is meeting the scientists	scientist	recommend
+FALSE	xypos8067	the professors are recommended by the scientists that called the student	student	call
+FALSE	xypos4559	the professor does not help the doctors that were following the scientists	doctor	help
+FALSE	xypos4260	the professors recommended the doctors that help the student	professor	help
+FALSE	xypos6546	the professors that the doctors were helping were meeting the lawyer	professor	help
+TRUE	xypos7919	the professors are called by the men that were recommending the student	man	call
+TRUE	xypos5209	the student is not calling the women that are following the men	student	call
+FALSE	xypos7763	the professor that helped the scientist did not meet the doctor	doctor	help
+TRUE	xypos4597	the men were not calling the professor that is meeting the students	man	call
+TRUE	xypos7069	the professors that are being followed by the students were helping the lawyer	professor	help
+FALSE	xypos7134	the students were not being helped by the doctors that the professor calls	professor	help
+FALSE	xypos4906	the man was calling the student that recommends the lawyers	student	call
+FALSE	xypos9055	the professors that do not dance helped the doctors	doctor	help
+TRUE	xypos3327	the professors that the men did not call are not followed by the student	man	call
+FALSE	xypos7815	the professor was not recommended by the scientist that helps the woman	professor	help
+FALSE	xypos5131	the student helps the lawyer that does not follow the professor	professor	help
+FALSE	xypos3981	the doctor is helping the professor that is being called by the men	professor	help
+FALSE	xypos4182	the scientist that was not being followed by the student was not being called by the men	student	call
+TRUE	xypos7660	the man that does not help the students calls the doctor	man	call
+TRUE	xypos6239	the doctor that is helped by the professor is not recommending the scientists	professor	help
+FALSE	xypos5114	the scientists that were helping the professors are met by the women	professor	help
+TRUE	xypos2459	the student does not call the men	student	call
+TRUE	xypos7432	the man was called by the women that meet the professor	woman	meet
+FALSE	xypos7372	the professor that was not meeting the lawyer helps the woman	woman	meet
+TRUE	xypos7523	the scientists were helped by the professor that the lawyer is being recommended by	professor	help
+TRUE	xypos3657	the lawyers were not following the doctor that is helped by the scientist	lawyer	follow
+TRUE	xypos7106	the doctors that the professors did not help did not call the students	professor	help
+FALSE	xypos6980	the man is being followed by the lawyer that was called by the student	man	call
+FALSE	xypos3990	the men were not recommending the woman that the student does not call	man	call
+FALSE	xypos3251	the lawyer that is being met by the women was being followed by the man	lawyer	follow
+FALSE	xypos7798	the woman is not being met by the doctors that are helping the students	woman	meet
+TRUE	xypos6536	the men that the professor does not help did not recommend the doctor	professor	help
+TRUE	xypos7119	the men that were helped by the doctors follow the lawyers	doctor	help
+FALSE	xypos3332	the doctor did not help the lawyers that the scientists did not follow	lawyer	follow
+TRUE	xypos7380	the doctors are not being called by the professor that helps the lawyers	professor	help
+FALSE	xypos7068	the lawyer is not followed by the scientist that the students call	lawyer	follow
+FALSE	xypos3338	the doctors are helping the woman that was not met by the professors	professor	help
+TRUE	xypos5951	the man is not calling the students that were dancing	man	call
+FALSE	xypos5092	the woman that is helping the professor was called by the students	professor	help
+TRUE	xypos3560	the woman that the lawyer was not meeting is not being recommended by the scientist	scientist	recommend
+TRUE	xypos1567	the professor that was helping the doctor is not dancing	professor	help
+FALSE	xypos7299	the man was not being called by the doctor that helped the lawyers	man	call
+FALSE	xypos4914	the doctor that met the lawyer was not helped by the professors	doctor	help
+FALSE	xypos640	the man that is called by the students was dancing	man	call
+TRUE	xypos8058	the woman that was not meeting the students did not help the doctors	woman	meet
+FALSE	xypos4371	the lawyers that are meeting the woman were not being called by the man	woman	meet
+TRUE	xypos4260	the professors recommended the doctors that help the student	doctor	help
+TRUE	xypos7616	the doctor that helps the students was recommending the scientist	doctor	help
+TRUE	xypos9055	the professors that do not dance helped the doctors	professor	help
+TRUE	xypos6768	the student is called by the doctor that was being met by the women	woman	meet
+FALSE	xypos3313	the woman that the doctor was calling is not helped by the professor	doctor	help
+FALSE	xypos6846	the doctors are being met by the women that the professors were not helping	doctor	help
+FALSE	xypos8966	the professor is not being helped by the doctor that danced	professor	help
+TRUE	xypos7471	the lawyers were called by the professor that is helping the doctor	professor	help
+TRUE	xypos5000	the scientist that met the woman is called by the student	student	call
+TRUE	xypos4608	the doctor that helped the woman is not being recommended by the professor	doctor	help
+FALSE	xypos3818	the man that the lawyers were calling is met by the woman	man	call
+TRUE	xypos7645	the man was not followed by the lawyers that were calling the scientists	lawyer	follow
+FALSE	xypos5062	the lawyer was not calling the women that are meeting the man	man	call
+FALSE	xypos3191	the professor helps the doctor	doctor	help
+FALSE	xypos4867	the doctor helped the women that call the professor	professor	help
+TRUE	xypos1733	the man that calls the students dances	man	call
+FALSE	xypos6368	the professor was helped by the doctors that the women are following	professor	help
+FALSE	xypos506	the man that the student called sleeps	man	call
+TRUE	xypos4317	the scientist is not meeting the doctor that helped the woman	doctor	help
+TRUE	xypos7532	the men that met the students are calling the doctors	man	call
+FALSE	xypos8786	the professor that was dancing is not helping the doctors	doctor	help
+FALSE	xypos7683	the woman was called by the scientists that recommend the students	student	call
+FALSE	xypos3895	the woman was not meeting the doctors that the lawyer helps	doctor	help
+FALSE	xypos3617	the doctor was not helping the professor that was called by the scientists	professor	help
+TRUE	xypos4308	the women that help the doctor are not called by the men	man	call
+TRUE	xypos3526	the professors helped the scientist that the student recommends	professor	help
+FALSE	xypos4076	the woman does not follow the students that the man was calling	student	call
+FALSE	xypos6556	the women were not met by the student that was not being helped by the doctors	woman	meet
+TRUE	xypos2247	the student called the man	student	call
+TRUE	xypos7292	the doctor is not followed by the lawyer that did not help the men	lawyer	follow
+TRUE	xypos8073	the doctor that is helping the professors is not meeting the men	doctor	help
+FALSE	xypos8017	the scientists are not met by the students that called the men	man	call
+TRUE	xypos4074	the professors that are called by the men were being helped by the lawyers	man	call
+FALSE	xypos7252	the men that were calling the students were not meeting the scientist	student	call
+TRUE	xypos8966	the professor is not being helped by the doctor that danced	doctor	help
+TRUE	xypos8057	the lawyer was helped by the professors that recommended the scientist	professor	help
+FALSE	xypos7616	the doctor that helps the students was recommending the scientist	scientist	recommend
+FALSE	xypos8066	the scientist that was calling the men recommended the student	man	call
+FALSE	xypos7374	the man was not being helped by the professors that called the lawyers	man	call
+TRUE	xypos7601	the lawyer is being recommended by the scientists that were helping the professor	scientist	recommend
+FALSE	xypos6703	the student was not being helped by the doctor that was followed by the professors	professor	help
+TRUE	xypos7080	the men are being called by the doctors that the scientist is recommending	scientist	recommend
+TRUE	xypos3332	the doctor did not help the lawyers that the scientists did not follow	doctor	help
+FALSE	xypos4124	the student that the lawyer called is helped by the doctor	student	call
+FALSE	xypos3915	the men are calling the students that are met by the doctor	student	call
+TRUE	xypos3506	the men are not calling the professors that were being met by the student	man	call
+FALSE	xypos7909	the scientist that does not recommend the doctor does not help the professors	professor	help
+FALSE	xypos3407	the professor that is recommended by the students was helped by the doctor	professor	help
+TRUE	xypos6274	the lawyers are followed by the professor that the women are meeting	woman	meet
+FALSE	xypos449	the students that are being called by the men do not dance	student	call
+FALSE	xypos8073	the doctor that is helping the professors is not meeting the men	professor	help
+TRUE	xypos4404	the doctor that helps the woman is not followed by the professor	doctor	help
+FALSE	xypos6706	the student was being called by the doctor that the scientists were not recommending	student	call
+FALSE	xypos8164	the man is not called by the student that is not recommending the lawyers	man	call
+FALSE	xypos7947	the scientist is not called by the student that recommends the professors	scientist	recommend
+FALSE	xypos7058	the students that the woman was recommending called the scientist	scientist	recommend
+FALSE	xypos3543	the doctor did not recommend the scientists that the student calls	scientist	recommend
+TRUE	xypos4937	the professors meet the doctor that helps the woman	doctor	help
+TRUE	xypos7000	the woman that the scientist helped was meeting the professor	woman	meet
+FALSE	xypos8057	the lawyer was helped by the professors that recommended the scientist	scientist	recommend
+TRUE	xypos7676	the woman that is meeting the scientist recommends the lawyers	woman	meet
+TRUE	xypos4112	the professors that the doctors help were met by the woman	woman	meet
+FALSE	xypos3780	the man was not calling the scientists that the student followed	student	call
+FALSE	xypos7541	the doctors that were helping the professors did not follow the man	professor	help
+FALSE	xypos6351	the scientists that the doctor met recommend the woman	woman	meet
+TRUE	xypos7148	the doctors that were recommended by the students did not help the professors	doctor	help
+FALSE	xypos5709	the doctor was helping the professor that dances	professor	help
+TRUE	xypos7313	the lawyer that was following the scientists recommends the men	lawyer	follow
+TRUE	xypos7917	the scientists are not helped by the women that meet the professors	woman	meet
+FALSE	xypos7049	the lawyers were not being helped by the professors that are not being met by the doctors	doctor	help
+FALSE	xypos7552	the men that were calling the lawyers are recommending the scientists	scientist	recommend
+TRUE	xypos6379	the student was not being followed by the lawyer that the woman called	lawyer	follow
+TRUE	xypos3245	the doctors do not follow the lawyers that the woman meets	woman	meet
+TRUE	xypos6347	the doctor that the women did not meet did not recommend the scientist	woman	meet
+FALSE	xypos7216	the students are not followed by the lawyers that the doctor called	student	call
+FALSE	xypos8895	the doctor that dances was not helping the professors	professor	help
+FALSE	xypos7360	the professor was being helped by the lawyer that follows the men	professor	help
+FALSE	xypos7168	the professors were not helped by the student that is followed by the lawyer	professor	help
